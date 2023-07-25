@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dbef5163-4000-4b45-a057-ff7537eeb981" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/JavaDeveloperA5/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDeveloperA5/src/Main.java" afterDir="false" />
+    <list default="true" id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaDeveloperA5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Readme.md" beforeDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,26 +16,45 @@
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JavaDeveloperA5/src/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/practice/PrintAndMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+            <state relative-caret-position="90">
+              <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/JavaDeveloperA5" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/JavaDeveloperA5/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/practice/PrintAndMain.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
       </list>
     </option>
   </component>
@@ -48,38 +70,37 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="CydeoJavaDeveloper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CydeoJavaDeveloper" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaProgammingRefresh" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaProgammingRefresh" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="CydeoJavaDeveloper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CydeoJavaDeveloper" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaDeveloperA5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CydeoJavaDeveloper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CydeoJavaDeveloper" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaDeveloperA5" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaProgammingRefresh" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaProgammingRefresh" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaProgammingRefresh" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaProgammingRefresh" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -98,11 +119,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="dbef5163-4000-4b45-a057-ff7537eeb981" name="Default Changelist" comment="" />
-      <created>1690258319565</created>
+      <changelist id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="" />
+      <created>1690261203377</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1690258319565</updated>
+      <updated>1690261203377</updated>
     </task>
     <servers />
   </component>
@@ -115,10 +136,10 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2910663" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3298153" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3298153" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -138,10 +159,10 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JavaDeveloperA5/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/practice/PrintAndMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+        <state relative-caret-position="90">
+          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
         </state>
       </provider>
     </entry>
