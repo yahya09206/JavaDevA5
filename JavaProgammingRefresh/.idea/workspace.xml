@@ -8,6 +8,7 @@
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaDeveloperA5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generics/src/main/java/org/cydeo/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/generics/src/main/java/org/cydeo/Player.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Readme.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -161,7 +162,7 @@
       <option name="presentableId" value="Default" />
       <updated>1690261203377</updated>
       <workItem from="1692239314823" duration="364000" />
-      <workItem from="1692239753830" duration="622000" />
+      <workItem from="1692239753830" duration="639000" />
     </task>
     <servers />
   </component>
