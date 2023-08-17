@@ -14,4 +14,20 @@ public class Team {
     public String getName() {
         return name;
     }
+
+    public boolean addPlayer(Player player){
+        if (members.contains(player)){
+            System.out.println(player.getName() + " is already on this team");
+            return false;
+        }else {
+            members.add(player);
+            System.out.println(player.getName() + " picked for team " + this.name);
+            return true;
+        }
+    }
+
+    public int numPlayers(){
+        return this.members.size();
+    }
+
 }
