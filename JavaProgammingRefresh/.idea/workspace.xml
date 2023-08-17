@@ -131,7 +131,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TeamTest">
     <configuration name="ArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.cydeo.ArrayListExample" />
       <module name="generics" />
@@ -145,8 +145,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TeamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.cydeo.TeamTest" />
+      <module name="generics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.cydeo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TeamTest" />
         <item itemvalue="Application.ArrayListExample" />
       </list>
     </recent_temporary>
@@ -163,7 +177,7 @@
       <option name="presentableId" value="Default" />
       <updated>1690261203377</updated>
       <workItem from="1692239314823" duration="364000" />
-      <workItem from="1692239753830" duration="1045000" />
+      <workItem from="1692239753830" duration="1803000" />
     </task>
     <servers />
   </component>
