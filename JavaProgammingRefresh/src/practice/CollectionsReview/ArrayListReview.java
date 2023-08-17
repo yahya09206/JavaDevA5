@@ -15,6 +15,9 @@ public class ArrayListReview {
         students.add(new Student(3, "Nick"));
         students.add(new Student(4, "Ronnie"));
 
+        for (Student student : students) {
+            System.out.println(student);
+        }
 
     }
 }
