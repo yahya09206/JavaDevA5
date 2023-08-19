@@ -9,6 +9,8 @@
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaDeveloperA5" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lambda/src/main/java/org/cydeo/ArraySorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/lambda/src/main/java/org/cydeo/ArraySorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lambda/src/main/java/org/cydeo/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/lambda/src/main/java/org/cydeo/QuickSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Readme.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +51,7 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -225,7 +228,7 @@
       <workItem from="1692239314823" duration="364000" />
       <workItem from="1692239753830" duration="4814000" />
       <workItem from="1692248053822" duration="7000" />
-      <workItem from="1692338548054" duration="6025000" />
+      <workItem from="1692338548054" duration="6734000" />
     </task>
     <servers />
   </component>

@@ -4,11 +4,16 @@ public class ArraySorting {
     public static void main(String[] args) {
 
         ArraySorting as = new ArraySorting();
-        as.sort();
+        // as.sort();
+
+        QuickSort qs = new QuickSort();
+        BubbleSort bs = new BubbleSort();
+        as.sort(qs);
+        as.sort(bs);
     }
 
-    public static void sort(){
-        System.out.println("Quick sorting Array");
+    private void sort(Sorting sorting){
+        sorting.sort();
     }
 
 }
