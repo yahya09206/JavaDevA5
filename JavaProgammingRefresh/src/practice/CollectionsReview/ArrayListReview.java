@@ -1,9 +1,6 @@
 package practice.CollectionsReview;
 
-import java.util.ArrayList;
-import java.util.Iterator;
-import java.util.List;
-import java.util.ListIterator;
+import java.util.*;
 
 public class ArrayListReview {
     public static void main(String[] args) {
@@ -50,5 +47,23 @@ public class ArrayListReview {
 
         System.out.println("Lambda-------------------");
         students.forEach(student -> System.out.println(student));
+
+        System.out.println("Sorting-------------------");
+        Collections.sort(students, new sortByIdDesc());
+        System.out.println(students);
+    }
+
+    static class sortByIdDesc implements Comparator<Student>{
+        @Override
+        public int compare(Student o1, Student o2){
+            return o1.id-o2.id;
+        }
+    }
+
+    static class sortByNameDesc implements Comparator<Student>{
+        @Override
+        public int compare(Student o1, Student o2){
+            return o2.name.compareToIgnoreCase(o1.name);
+        }
     }
 }
