@@ -10,6 +10,7 @@ public class MapReview {
         map.put(1, "Sergio");
         map.put(2, "Moses");
         System.out.println(map.get(2));
+        System.out.println(findFirstNonRepeating("cydeo java developer"));
 
     }
 
