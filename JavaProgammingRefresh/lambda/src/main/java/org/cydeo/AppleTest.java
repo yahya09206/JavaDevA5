@@ -12,6 +12,7 @@ public class AppleTest {
         inventory.add(new Apple(200, Color.GREEN));
         inventory.add(new Apple(50, Color.RED));
 
+        // Filter by weight
         List<Apple> heavyApple = filterApples(inventory, new AppleHeavyPredicate());
         System.out.println(heavyApple);
 
