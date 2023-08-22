@@ -3,11 +3,13 @@ package org.cydeo;
 import lombok.*;
 
 @NoArgsConstructor
-@AllArgsConstructor
-@Getter
-@Setter
-@ToString
-@EqualsAndHashCode
+@Data
+//@AllArgsConstructor
+//@Getter
+//@Setter
+//@ToString
+//@EqualsAndHashCode
+//@RequiredArgsConstructor
 public class Student {
 
     private String firstName;
