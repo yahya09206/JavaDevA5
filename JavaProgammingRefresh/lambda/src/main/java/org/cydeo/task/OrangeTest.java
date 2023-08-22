@@ -12,6 +12,18 @@ public class OrangeTest {
         inventory.add(Orange.builder().weight(100).color(Color.RED).build());
         inventory.add(Orange.builder().weight(500).color(Color.RED).build());
         inventory.add(Orange.builder().weight(300).color(Color.GREEN).build());
+
+        OrangeFormatter simpleFormatter = orange -> "An Orange of " + orange.getWeight() + "g";
+//        prettyPrintApple(inventory, simpleFormatter);
+
+        prettyPrintApple(inventory, orange -> "An orange of " + orange.getWeight() + "g");
+
+        OrangeFormatter fancyFormatter = orange -> {
+            String characteristic = orange.getWeight() > 150 ? "Heavy" : "Light";
+            return "A " + characteristic + " " + orange.getColor() + " orange";
+        };
+
+        prettyPrintApple(inventory, fancyFormatter);
     }
 
     private static void prettyPrintApple(List<Orange> inventory, OrangeFormatter orangeFormatter){
