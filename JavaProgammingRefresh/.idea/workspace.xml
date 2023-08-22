@@ -9,7 +9,7 @@
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaDeveloperA5" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lambda/src/main/java/org/cydeo/task/Orange.java" beforeDir="false" afterPath="$PROJECT_DIR$/lambda/src/main/java/org/cydeo/task/Orange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lambda/src/main/java/org/cydeo/task/OrangeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/lambda/src/main/java/org/cydeo/task/OrangeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Readme.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -228,7 +228,7 @@
       <workItem from="1692239753830" duration="4814000" />
       <workItem from="1692248053822" duration="7000" />
       <workItem from="1692338548054" duration="8078000" />
-      <workItem from="1692678139958" duration="3829000" />
+      <workItem from="1692678139958" duration="3973000" />
     </task>
     <servers />
   </component>
