@@ -11,15 +11,11 @@ public class ArraySorting {
         as.sort(qs);
         as.sort(bs);
 
-        myLambda myLambda = () -> System.out.println("Sorting the array");
+        Sorting myLambda2 = () -> System.out.println("Sorting the array");
     }
 
     private void sort(Sorting sorting){
         sorting.sort();
     }
 
-}
-
-interface myLambda{
-    void print();
 }
