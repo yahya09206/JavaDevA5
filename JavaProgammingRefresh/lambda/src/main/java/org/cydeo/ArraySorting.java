@@ -10,10 +10,16 @@ public class ArraySorting {
         BubbleSort bs = new BubbleSort();
         as.sort(qs);
         as.sort(bs);
+
+        myLambda myLambda = () -> System.out.println("Sorting the array");
     }
 
     private void sort(Sorting sorting){
         sorting.sort();
     }
 
+}
+
+interface myLambda{
+    void print();
 }
