@@ -138,7 +138,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.UserTest">
+  <component name="RunManager" selected="Application.Demo">
     <configuration name="AppleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.cydeo.AppleTest" />
       <module name="lambda" />
@@ -152,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArraySorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.cydeo.ArraySorting" />
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.cydeo.doublecolonoperator.Demo" />
       <module name="lambda" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.cydeo.*" />
+          <option name="PATTERN" value="org.cydeo.doublecolonoperator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,11 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo" />
         <item itemvalue="Application.UserTest" />
         <item itemvalue="Application.Examples" />
         <item itemvalue="Application.OrangeTest" />
         <item itemvalue="Application.AppleTest" />
-        <item itemvalue="Application.ArraySorting" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +230,7 @@
       <workItem from="1692248053822" duration="7000" />
       <workItem from="1692338548054" duration="8078000" />
       <workItem from="1692678139958" duration="5607000" />
-      <workItem from="1692765380490" duration="3083000" />
+      <workItem from="1692765380490" duration="3559000" />
     </task>
     <servers />
   </component>
