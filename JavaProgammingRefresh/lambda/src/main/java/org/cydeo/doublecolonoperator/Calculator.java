@@ -7,6 +7,6 @@ public class Calculator {
     }
 
     public static void findMultiply(int x, int y){
-        System.out.println("Multiply " + (x + y));
+        System.out.println("Multiply " + (x * y));
     }
 }
