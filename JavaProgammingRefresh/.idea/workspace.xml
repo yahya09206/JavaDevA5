@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/streams/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaDeveloperA5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/streams/src/main/java/org/cydeo/CreatingStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/streams/src/main/java/org/cydeo/CreatingStream.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Readme.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -140,7 +137,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ComparatorDemo">
+  <component name="RunManager" selected="Application.StreamOperations">
     <configuration name="ComparatorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.cydeo.comparatorinterface.ComparatorDemo" />
       <module name="lambda" />
@@ -180,12 +177,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrangeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.cydeo.task.OrangeTest" />
-      <module name="lambda" />
+    <configuration name="StreamOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.cydeo.StreamOperations" />
+      <module name="streams" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.cydeo.task.*" />
+          <option name="PATTERN" value="org.cydeo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -208,11 +205,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StreamOperations" />
         <item itemvalue="Application.ComparatorDemo" />
         <item itemvalue="Application.Demo" />
         <item itemvalue="Application.UserTest" />
         <item itemvalue="Application.Examples" />
-        <item itemvalue="Application.OrangeTest" />
       </list>
     </recent_temporary>
   </component>
@@ -233,7 +230,7 @@
       <workItem from="1692338548054" duration="8078000" />
       <workItem from="1692678139958" duration="5607000" />
       <workItem from="1692765380490" duration="4195000" />
-      <workItem from="1692849664191" duration="3700000" />
+      <workItem from="1692849664191" duration="4734000" />
     </task>
     <servers />
   </component>
