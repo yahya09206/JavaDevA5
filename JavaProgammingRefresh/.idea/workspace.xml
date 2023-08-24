@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/streams/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaDeveloperA5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lambda/src/main/java/org/cydeo/comparatorinterface/ComparatorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/lambda/src/main/java/org/cydeo/comparatorinterface/ComparatorDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Readme.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,8 +52,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -230,7 +233,7 @@
       <workItem from="1692338548054" duration="8078000" />
       <workItem from="1692678139958" duration="5607000" />
       <workItem from="1692765380490" duration="4195000" />
-      <workItem from="1692849664191" duration="2828000" />
+      <workItem from="1692849664191" duration="3700000" />
     </task>
     <servers />
   </component>
