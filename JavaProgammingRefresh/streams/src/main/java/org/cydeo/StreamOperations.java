@@ -27,5 +27,12 @@ public class StreamOperations {
                 .filter(i -> i % 2 == 0)
                 .skip(2)
                 .forEach(System.out::println);
+
+        // Map
+        System.out.println("Map");
+        myList.stream()
+                .map(number -> number * 2)
+                .filter(i -> i % 3 == 0)
+                .forEach(System.out::println);
     }
 }

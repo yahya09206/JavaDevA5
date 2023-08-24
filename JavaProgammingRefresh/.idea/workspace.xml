@@ -8,8 +8,7 @@
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaDeveloperA5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/streams/src/main/java/org/cydeo/CreatingStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/streams/src/main/java/org/cydeo/CreatingStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/streams/src/main/java/org/cydeo/StreamOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/streams/src/main/java/org/cydeo/StreamOperations.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Readme.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -230,7 +229,7 @@
       <workItem from="1692338548054" duration="8078000" />
       <workItem from="1692678139958" duration="5607000" />
       <workItem from="1692765380490" duration="4195000" />
-      <workItem from="1692849664191" duration="4734000" />
+      <workItem from="1692849664191" duration="4898000" />
     </task>
     <servers />
   </component>
