@@ -2,6 +2,7 @@ package org.cydeo.comparatorinterface;
 
 import java.util.Arrays;
 import java.util.Collections;
+import java.util.Comparator;
 import java.util.List;
 
 public class ComparatorDemo {
@@ -26,5 +27,15 @@ public class ComparatorDemo {
         // Descending
         list.sort((o2,o1) -> o1.compareTo(o2));
         System.out.println(list);
+
+        List<Apple> myInventory = Arrays.asList(
+                new Apple(80,Color.GREEN),
+                new Apple(155,Color.RED),
+                new Apple(120,Color.GREEN)
+        );
+
+        Comparator<Apple> sortApple = Comparator.comparing(apple -> apple.getWeight());
+        myInventory.sort(sortApple);
+        System.out.println(myInventory);
     }
 }

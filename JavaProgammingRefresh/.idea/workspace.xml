@@ -9,6 +9,7 @@
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaDeveloperA5" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lambda/src/main/java/org/cydeo/comparatorinterface/ComparatorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/lambda/src/main/java/org/cydeo/comparatorinterface/ComparatorDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Readme.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,9 +48,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -229,7 +230,7 @@
       <workItem from="1692338548054" duration="8078000" />
       <workItem from="1692678139958" duration="5607000" />
       <workItem from="1692765380490" duration="4195000" />
-      <workItem from="1692849664191" duration="1728000" />
+      <workItem from="1692849664191" duration="2593000" />
     </task>
     <servers />
   </component>
