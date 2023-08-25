@@ -9,7 +9,6 @@
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaDeveloperA5" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/streams/src/main/java/org/cydeo/DishTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/streams/src/main/java/org/cydeo/DishTask.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Readme.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -137,26 +136,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.EmployeeTest">
+  <component name="RunManager" selected="Application.MatchingAndFinding">
     <configuration name="ComparatorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.cydeo.comparatorinterface.ComparatorDemo" />
       <module name="lambda" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.cydeo.comparatorinterface.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.cydeo.doublecolonoperator.Demo" />
-      <module name="lambda" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.cydeo.doublecolonoperator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,6 +176,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MatchingAndFinding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.cydeo.MatchingAndFinding" />
+      <module name="streams" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.cydeo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StreamOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.cydeo.StreamOperations" />
       <module name="streams" />
@@ -205,11 +204,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MatchingAndFinding" />
         <item itemvalue="Application.EmployeeTest" />
         <item itemvalue="Application.DishTask" />
         <item itemvalue="Application.StreamOperations" />
         <item itemvalue="Application.ComparatorDemo" />
-        <item itemvalue="Application.Demo" />
       </list>
     </recent_temporary>
   </component>
@@ -231,7 +230,7 @@
       <workItem from="1692678139958" duration="5607000" />
       <workItem from="1692765380490" duration="4195000" />
       <workItem from="1692849664191" duration="5057000" />
-      <workItem from="1692928934724" duration="2158000" />
+      <workItem from="1692928934724" duration="2851000" />
     </task>
     <servers />
   </component>
