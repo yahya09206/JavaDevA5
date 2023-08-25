@@ -9,7 +9,7 @@
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaDeveloperA5" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/streams/src/main/java/org/cydeo/Types.java" beforeDir="false" afterPath="$PROJECT_DIR$/streams/src/main/java/org/cydeo/Type.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/streams/src/main/java/org/cydeo/DishTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/streams/src/main/java/org/cydeo/DishTask.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Readme.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -137,7 +137,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DishTask">
+  <component name="RunManager" selected="Application.EmployeeTest">
     <configuration name="ComparatorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.cydeo.comparatorinterface.ComparatorDemo" />
       <module name="lambda" />
@@ -177,6 +177,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.cydeo.EmployeeTest" />
+      <module name="streams" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.cydeo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StreamOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.cydeo.StreamOperations" />
       <module name="streams" />
@@ -190,26 +203,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.cydeo.functionalinterfaces.UserTest" />
-      <module name="lambda" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.cydeo.functionalinterfaces.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EmployeeTest" />
         <item itemvalue="Application.DishTask" />
         <item itemvalue="Application.StreamOperations" />
         <item itemvalue="Application.ComparatorDemo" />
         <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.UserTest" />
       </list>
     </recent_temporary>
   </component>
@@ -231,7 +231,7 @@
       <workItem from="1692678139958" duration="5607000" />
       <workItem from="1692765380490" duration="4195000" />
       <workItem from="1692849664191" duration="5057000" />
-      <workItem from="1692928934724" duration="1175000" />
+      <workItem from="1692928934724" duration="2158000" />
     </task>
     <servers />
   </component>
