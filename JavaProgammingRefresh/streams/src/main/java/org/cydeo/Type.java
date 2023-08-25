@@ -1,5 +1,5 @@
 package org.cydeo;
 
-public enum Types {
+public enum Type {
     MEAT,FISH,OTHER;
 }
