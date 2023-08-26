@@ -137,9 +137,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Reducing">
-    <configuration name="DishTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.cydeo.DishTask" />
+  <component name="RunManager" selected="Application.JavaCollectors">
+    <configuration name="EmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.cydeo.EmployeeTest" />
       <module name="streams" />
       <extension name="coverage">
         <pattern>
@@ -151,8 +151,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.cydeo.EmployeeTest" />
+    <configuration name="JavaCollectors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.cydeo.JavaCollectors" />
       <module name="streams" />
       <extension name="coverage">
         <pattern>
@@ -190,8 +190,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.cydeo.StreamOperations" />
+    <configuration name="StateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.cydeo.StateTest" />
       <module name="streams" />
       <extension name="coverage">
         <pattern>
@@ -205,11 +205,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaCollectors" />
+        <item itemvalue="Application.StateTest" />
         <item itemvalue="Application.Reducing" />
         <item itemvalue="Application.MatchingAndFinding" />
         <item itemvalue="Application.EmployeeTest" />
-        <item itemvalue="Application.DishTask" />
-        <item itemvalue="Application.StreamOperations" />
       </list>
     </recent_temporary>
   </component>
@@ -231,7 +231,8 @@
       <workItem from="1692678139958" duration="5607000" />
       <workItem from="1692765380490" duration="4195000" />
       <workItem from="1692849664191" duration="5057000" />
-      <workItem from="1692928934724" duration="3416000" />
+      <workItem from="1692928934724" duration="5735000" />
+      <workItem from="1693017040433" duration="527000" />
     </task>
     <servers />
   </component>
