@@ -15,10 +15,5 @@ public class JavaCollectors {
                 .collect(Collectors.toCollection(ArrayList::new));
 
         System.out.println(numberList);
-
-//        List<Integer> numberSet = numbers.stream()
-//                .filter(x -> x % 2 == 0)
-//                .collect(Collectors.toCollection(HashSet::new));
-
     }
 }
