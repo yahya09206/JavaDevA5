@@ -14,6 +14,7 @@ public class JavaCollectors {
                 .filter(x -> (x & 2) == 0)
                 .collect(Collectors.toCollection(ArrayList::new));
 
+        // Print out list of numbers
         System.out.println(numberList);
     }
 }
