@@ -10,6 +10,7 @@ import java.util.List;
 @AllArgsConstructor
 public class State {
 
+    // instance variables
     private String name;
     private List<String> cities = new ArrayList<>();
 
