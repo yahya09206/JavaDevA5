@@ -8,8 +8,6 @@
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaDeveloperA5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day27_recap/FirstUniqueElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day27_recap/FirstUniqueElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Readme.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Spring-01-Core-IoC/Spring-01-Core-IoC/pom.xml" beforeDir="false" />
     </list>
@@ -243,7 +241,7 @@
       <workItem from="1693460939637" duration="67000" />
       <workItem from="1693539001082" duration="74000" />
       <workItem from="1694575984588" duration="2236000" />
-      <workItem from="1694667617396" duration="1363000" />
+      <workItem from="1694667617396" duration="1595000" />
     </task>
     <servers />
   </component>
