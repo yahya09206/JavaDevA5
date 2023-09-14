@@ -5,6 +5,14 @@ public class FirstUniqueCharacter {
 
         String str = "aaabcccddefggggh";
 
+//        for (char each : str.toCharArray()){
+//            System.out.println(each);
+//        }
 
+        for (char each : str.toCharArray()){
+            if (str.indexOf(each) == str.lastIndexOf(each)){
+                System.out.println(each);
+            }
+        }
     }
 }
