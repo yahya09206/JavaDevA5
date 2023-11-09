@@ -14,10 +14,14 @@ public class CentsToDollars {
         int dollarAmount = cents / 100;
         int remainder = cents % 100;
 
-        if (remainder == 0){
-            System.out.println(cents + " is equal to " + dollarAmount + " dollars");
+        if (remainder >= 0){
+            if (remainder == 0){
+                System.out.println(cents + " is equal to " + dollarAmount + " dollars");
+            }else {
+                System.out.println(cents + "  cents is equal to " + dollarAmount + " dollars and " + remainder + " cents");
+            }
         }else {
-            System.out.println(cents + "  cents is equal to " + dollarAmount + " dollars and " + remainder + " cents");
+            System.out.println("Invalid Amount");
         }
 
     }
