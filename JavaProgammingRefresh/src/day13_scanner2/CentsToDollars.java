@@ -11,6 +11,7 @@ public class CentsToDollars {
         // Cents to Dollars
         System.out.println("Enter Cents");
         int centAmount = scan.nextInt();
+        double dollarAmount = centAmount / 100;
 
     }
 }
