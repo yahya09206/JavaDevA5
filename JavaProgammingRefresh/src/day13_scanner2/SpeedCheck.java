@@ -9,5 +9,13 @@ public class SpeedCheck {
         int speedLimit = 35;
         System.out.println("Enter your current speed");
         int currentSpeed = scan.nextInt();
+
+        int overTheSpeedLimit = currentSpeed - speedLimit;
+
+        System.out.println("currentSpeed = " + currentSpeed);
+
+        if (overTheSpeedLimit > 0){
+            System.out.println("You are driving " + overTheSpeedLimit + " miles over speed limit. Slow Down!");
+        }
     }
 }
