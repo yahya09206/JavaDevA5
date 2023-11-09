@@ -9,6 +9,7 @@
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaDeveloperA5" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day13_scanner2/MilesToKilometers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day13_scanner2/MilesToKilometers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Readme.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Spring-01-Core-IoC/Spring-01-Core-IoC/pom.xml" beforeDir="false" />
     </list>
@@ -137,7 +138,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CentsToDollars">
+  <component name="RunManager" selected="Application.MilesToKilometers">
     <configuration name="CentsToDollars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day13_scanner2.CentsToDollars" />
       <module name="JavaProgammingRefresh" />
@@ -164,12 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Grad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day12_scanner.Grad" />
+    <configuration name="MilesToKilometers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day13_scanner2.MilesToKilometers" />
       <module name="JavaProgammingRefresh" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day12_scanner.*" />
+          <option name="PATTERN" value="day13_scanner2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -205,11 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MilesToKilometers" />
         <item itemvalue="Application.CentsToDollars" />
         <item itemvalue="Application.Rectangle" />
         <item itemvalue="Application.ScannerIntro" />
         <item itemvalue="Application.FizzBuzz" />
-        <item itemvalue="Application.Grad" />
       </list>
     </recent_temporary>
   </component>
@@ -246,7 +247,7 @@
       <workItem from="1694670073214" duration="28000" />
       <workItem from="1697822369619" duration="23000" />
       <workItem from="1697822402358" duration="3919000" />
-      <workItem from="1699570511169" duration="1613000" />
+      <workItem from="1699570511169" duration="1666000" />
     </task>
     <servers />
   </component>
