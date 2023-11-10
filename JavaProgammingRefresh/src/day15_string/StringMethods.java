@@ -16,12 +16,24 @@ public class StringMethods {
         System.out.println("totalNumberOfChars = " + totalNumberOfChars);
 
         String s1 = "Cybertek";
+        int lastIndex = s1.length() - 1;
 
         char firstCharacter = s1.charAt(0);
-        char lastCharacter = s1.charAt(7);
+        int lastCharacter = s1.charAt(lastIndex);
 
         System.out.println("firstCharacter = " + firstCharacter);
         System.out.println("lastCharacter = " + lastCharacter);
+
+        System.out.println("-----------------------------------");
+
+        String firstName = "John";
+        String lastName = "King";
+
+        String fullName = firstName + " " + lastName;
+        String fullName2 = firstName.concat(" ").concat(lastName);
+
+        System.out.println("fullName2 = " + fullName2);
+        System.out.println("fullName = " + fullName);
 
 
     }
