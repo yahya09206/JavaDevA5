@@ -32,6 +32,9 @@ public class SimpleCalculator {
                 result = num1 / num2;
                 break;
             default:
+                System.err.println("Invalid Operator");
         }
+
+        System.out.println("result = " + result);
     }
 }

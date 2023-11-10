@@ -11,6 +11,9 @@ public class StringMethods {
 
         System.out.println("-----------------------------------");
 
+        String sentence = "Hello everyone, how are you all today?";
+        int totalNumberOfChars = sentence.length();
+        System.out.println("totalNumberOfChars = " + totalNumberOfChars);
 
 
     }
