@@ -9,6 +9,7 @@ public class StringMethods2 {
 
         String s2 = "Cybertek School";
 
+        // Substring to print out cybertek
         String name2 = s2.substring(0, 7 + 1);
         System.out.println(name2);
 
