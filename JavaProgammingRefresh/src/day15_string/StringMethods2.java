@@ -13,6 +13,7 @@ public class StringMethods2 {
         String name2 = s2.substring(0, 7 + 1);
         System.out.println(name2);
 
+        // Substring to print out school
         String name3 = s2.substring(9, 15);
         System.out.println(name3);
     }
