@@ -10,6 +10,10 @@ public class Months {
         System.out.println("Enter a number: ");
         int n = new Scanner(System.in).nextInt();
 
-        System.out.println(months[n - 1]);
+        if (n >= 1 && n <= 12){
+            System.out.println(months[n - 1]);
+        }else {
+            System.out.println("Invalid number");
+        }
     }
 }
