@@ -9,6 +9,8 @@
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaDeveloperA5" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/day19_forloops/UniqueCharacters.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/day19_forloops/UniqueCharacters.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day23_arrays/ArraysIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day23_arrays/ArraysIntro.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Readme.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Spring-01-Core-IoC/Spring-01-Core-IoC/pom.xml" beforeDir="false" />
     </list>
@@ -137,7 +139,20 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.UniqueCharacters">
+  <component name="RunManager" selected="Application.ArraysIntro">
+    <configuration name="ArraysIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day23_arrays.ArraysIntro" />
+      <module name="JavaProgammingRefresh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day23_arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ForLoopIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day19_forloops.ForLoopIntro" />
       <module name="JavaProgammingRefresh" />
@@ -177,19 +192,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringMethods2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day15_string.StringMethods2" />
-      <module name="JavaProgammingRefresh" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day15_string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="UniqueCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day19_forloops.UniqueCharacters" />
       <module name="JavaProgammingRefresh" />
@@ -205,11 +207,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArraysIntro" />
         <item itemvalue="Application.UniqueCharacters" />
         <item itemvalue="Application.RemoveDuplicates" />
         <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.ForLoopIntro" />
-        <item itemvalue="Application.StringMethods2" />
       </list>
     </recent_temporary>
   </component>
@@ -246,7 +248,7 @@
       <workItem from="1694670073214" duration="28000" />
       <workItem from="1697822369619" duration="23000" />
       <workItem from="1697822402358" duration="3919000" />
-      <workItem from="1699570511169" duration="11754000" />
+      <workItem from="1699570511169" duration="11979000" />
     </task>
     <servers />
   </component>
