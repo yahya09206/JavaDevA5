@@ -7,7 +7,17 @@ public class FrequencyOfElements {
 
 
         for (int j = 0; j <= arr.length - 1; j++){
+            int element = arr[j];
+            int count = 0;
+            for (int i = 0; i <= arr.length - 1; i++){
+                if (arr[i] == element){
+                    count++;
+                }
+            }
 
+            if (count == 1){
+                System.out.println(element);
+            }
         }
     }
 }

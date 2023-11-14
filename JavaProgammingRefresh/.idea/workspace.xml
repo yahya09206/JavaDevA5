@@ -137,7 +137,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Grade">
+  <component name="RunManager" selected="Application.FrequencyOfElements">
     <configuration name="ClassMates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day24_arrays.ClassMates" />
       <module name="JavaProgammingRefresh" />
@@ -151,12 +151,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Days" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day23_arrays.Days" />
+    <configuration name="FrequencyOfElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day24_arrays.FrequencyOfElements" />
       <module name="JavaProgammingRefresh" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day23_arrays.*" />
+          <option name="PATTERN" value="day24_arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -205,11 +205,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FrequencyOfElements" />
         <item itemvalue="Application.Grade" />
         <item itemvalue="Application.ClassMates" />
         <item itemvalue="Application.MaximumNumber" />
         <item itemvalue="Application.MyClassMates" />
-        <item itemvalue="Application.Days" />
       </list>
     </recent_temporary>
   </component>
@@ -246,7 +246,7 @@
       <workItem from="1694670073214" duration="28000" />
       <workItem from="1697822369619" duration="23000" />
       <workItem from="1697822402358" duration="3919000" />
-      <workItem from="1699570511169" duration="16028000" />
+      <workItem from="1699570511169" duration="16051000" />
     </task>
     <servers />
   </component>
