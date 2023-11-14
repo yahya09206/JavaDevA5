@@ -20,7 +20,7 @@ public class Grade {
                 grades[i] = 'F';
             }
 
-            System.out.println(names[i] + " ' score is " + scores[i] + ", made " + grades[i]);
+            System.out.println(names[i] + "'s  score is " + scores[i] + ", which is a " + grades[i]);
         }
     }
 }
