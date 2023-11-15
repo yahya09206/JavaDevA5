@@ -7,6 +7,11 @@ public class ReverseElements2 {
 
         for (String elements : array) {
             String reverse = "";
+            for (int i = elements.length() - 1; i >= 0; i--){
+                reverse += elements.charAt(i);
+            }
+
+            System.out.print(" " + reverse);
         }
     }
 }
