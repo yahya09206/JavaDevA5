@@ -1,5 +1,7 @@
 package day25_arrays;
 
+import java.util.Arrays;
+
 public class ForeachLoopPractice {
     public static void main(String[] args) {
 
@@ -13,5 +15,11 @@ public class ForeachLoopPractice {
         for (String each : arr1) {
             arr3[j++] = each;
         }
+
+        for (String each : arr2) {
+            arr3[j++] = each;
+        }
+
+        System.out.println(Arrays.toString(arr3));
     }
 }
