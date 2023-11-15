@@ -9,6 +9,17 @@ public class Merge3Arrays {
 
         int[] arr4 = new int[arr1.length + arr2.length + arr3.length];
 
+        int j = 0;
+        for (int i = 0; i <= arr1.length - 1; i++){
+            arr4[j++] = arr1[i];
+        }
 
+        for (int i = 0; i <= arr1.length - 1; i++){
+            arr4[j++] = arr1[i];
+        }
+
+        for (int i = 0; i <= arr1.length - 1; i++){
+            arr4[j++] = arr1[i];
+        }
     }
 }
