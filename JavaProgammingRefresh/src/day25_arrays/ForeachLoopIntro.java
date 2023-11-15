@@ -8,5 +8,13 @@ public class ForeachLoopIntro {
         for (int number : numbers) {
             System.out.println(number);
         }
+
+        System.out.println("-----------------------------");
+
+        String[] names = {"Ahmet", "Boburbek", "Farid", "Robinson"};
+
+        for (String each : names) {
+            System.out.println(each);
+        }
     }
 }
