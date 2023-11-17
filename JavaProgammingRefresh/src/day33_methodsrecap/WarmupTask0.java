@@ -9,5 +9,13 @@ public class WarmupTask0 {
     public static int[] remove(int[] array, int index){
 
         int[] result = new int[array.length - 1];
+
+        for (int i = 0; i <= array.length - 1; i++){
+            if (i == index){
+                continue;
+            }else {
+
+            }
+        }
     }
 }
