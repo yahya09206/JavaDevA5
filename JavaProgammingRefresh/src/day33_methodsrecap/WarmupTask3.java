@@ -31,11 +31,12 @@ public class WarmupTask3 {
     }
 
     public static double[] unique(double[] array){
+
         double[] result = {};
 
-        for (double each : array) { // getting each elements
-            if(  frequency(array, each)  == 1   ){ // unique element
-                result =  ArraysUtility.addElement(result, each );
+        for (double each : array) {
+            if (frequency(array, (int)each) == 1){
+                result = ArraysUtility.addElement(result, each);
             }
         }
 

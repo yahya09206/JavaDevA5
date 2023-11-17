@@ -9,8 +9,10 @@
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaDeveloperA5" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/utilities/ArraysUtility.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/utilities/ArraysUtility.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/utilities/ArraysUtility.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/day33_methodsrecap/WarmupTask3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day33_methodsrecap/WarmupTask3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utilities/ArraysUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utilities/ArraysUtility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/streams/src/main/java/org/cydeo/StateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/streams/src/main/java/org/cydeo/StateTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Readme.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Spring-01-Core-IoC/Spring-01-Core-IoC/pom.xml" beforeDir="false" />
     </list>
@@ -249,7 +251,7 @@
       <workItem from="1697822369619" duration="23000" />
       <workItem from="1697822402358" duration="3919000" />
       <workItem from="1699570511169" duration="19649000" />
-      <workItem from="1700152712109" duration="4653000" />
+      <workItem from="1700152712109" duration="5381000" />
     </task>
     <servers />
   </component>
