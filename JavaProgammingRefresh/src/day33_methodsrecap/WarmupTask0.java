@@ -6,7 +6,13 @@ public class WarmupTask0 {
         // remove element at given index of the array
     }
 
-    public static int[] remove(int[] array, int index){
+    public static int[] remove(int[] array, int index) {
+
+        if (index >= 0 && index <= array.length - 1) {
+
+            System.err.println("Invalid index");
+            return array;
+        }
 
         int[] result = new int[array.length - 1];
 
@@ -17,5 +23,7 @@ public class WarmupTask0 {
                 result[j++] = array[i];
             }
         }
+
+        return result;
     }
 }
