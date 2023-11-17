@@ -14,7 +14,7 @@ public class WarmupTask0 {
 
     public static int[] remove(int[] array, int index) {
 
-        if (index >= 0 || index > array.length - 1) {
+        if (index < 0 || index > array.length - 1) {
 
             System.err.println("Invalid index");
             return array;
