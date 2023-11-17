@@ -8,5 +8,6 @@ public class WarmupTask0 {
 
     public static int[] remove(int[] array, int index){
 
+        int[] result = new int[array.length - 1];
     }
 }
