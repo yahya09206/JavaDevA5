@@ -9,10 +9,7 @@
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaDeveloperA5" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/utilities/ArraysUtility.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day33_methodsrecap/WarmupTask3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day33_methodsrecap/WarmupTask3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/utilities/ArraysUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utilities/ArraysUtility.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/streams/src/main/java/org/cydeo/StateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/streams/src/main/java/org/cydeo/StateTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Readme.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Spring-01-Core-IoC/Spring-01-Core-IoC/pom.xml" beforeDir="false" />
     </list>
@@ -141,20 +138,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.WarmupTask3">
-    <configuration name="ReverseElements2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day25_arrays.ReverseElements2" />
-      <module name="JavaProgammingRefresh" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day25_arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.WarmupTask4">
     <configuration name="WarmupTask0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day33_methodsrecap.WarmupTask0" />
       <module name="JavaProgammingRefresh" />
@@ -207,13 +191,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WarmupTask4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day33_methodsrecap.WarmupTask4" />
+      <module name="JavaProgammingRefresh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day33_methodsrecap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WarmupTask4" />
         <item itemvalue="Application.WarmupTask3" />
         <item itemvalue="Application.WarmupTask2" />
         <item itemvalue="Application.WarmupTask1" />
         <item itemvalue="Application.WarmupTask0" />
-        <item itemvalue="Application.ReverseElements2" />
       </list>
     </recent_temporary>
   </component>
@@ -251,7 +248,7 @@
       <workItem from="1697822369619" duration="23000" />
       <workItem from="1697822402358" duration="3919000" />
       <workItem from="1699570511169" duration="19649000" />
-      <workItem from="1700152712109" duration="5381000" />
+      <workItem from="1700152712109" duration="6399000" />
     </task>
     <servers />
   </component>

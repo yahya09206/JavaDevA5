@@ -324,32 +324,32 @@ public class ArraysUtility {
         return result;
     }
 
-    public static boolean contains(double[] array, int element){
+    public static boolean contains(double[] array, double element){
 
-        boolean result = false;
+        //boolean result = false;
         // or erase above line and add return true; inside if block and return false in case it's never true
 
         for (double each : array) {
             if (each == element){
-                result = true;
+                return true;
             }
         }
 
-        return result;
+        return false;
     }
 
-    public static boolean contains(String[] array, int element){
+    public static boolean contains(String[] array, String element){
 
-        boolean result = false;
+        //boolean result = false;
         // or erase above line and add return true; inside if block and return false in case it's never true
 
         for (String each : array) {
             if (each.equals(element)){
-                result = true;
+                return true;
             }
         }
 
-        return result;
+        return false;
     }
 
     public static boolean contains(char[] array, int element){
