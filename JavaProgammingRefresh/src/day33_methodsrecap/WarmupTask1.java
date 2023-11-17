@@ -8,6 +8,16 @@ public class WarmupTask1 {
         String[] students = {"Mohammed", "Aleksandra", "Elmira"};
         students = reverse(students);
         System.out.println(Arrays.toString(students));
+        System.out.println("----------------------------");
+        int[] numbers = {1, 2, 3, 4, 5};
+        numbers = reverse(numbers);
+        System.out.println(Arrays.toString(numbers));
+        System.out.println("----------------------------");
+        char[] chars = {'A', 'B', 'C'};
+        chars = reverse(chars);
+        System.out.println(Arrays.toString(chars));
+
+
     }
 
 
