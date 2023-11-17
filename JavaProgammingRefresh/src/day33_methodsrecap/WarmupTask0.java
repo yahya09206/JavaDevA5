@@ -10,11 +10,11 @@ public class WarmupTask0 {
 
         int[] result = new int[array.length - 1];
 
-        for (int i = 0; i <= array.length - 1; i++){
+        for (int i = 0, j = 0; i <= array.length - 1; i++){
             if (i == index){
                 continue;
             }else {
-
+                result[j++] = array[i];
             }
         }
     }
