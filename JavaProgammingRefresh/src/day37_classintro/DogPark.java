@@ -17,5 +17,9 @@ public class DogPark {
         System.out.println(dog1.size);
         System.out.println(dog1.age);
         System.out.println(dog1.color);
+
+        Dog dog2 = new Dog();
+        dog2.setInfo("Bobby", "Bull Terrier", "Female", "Brown", "Tiny", 33);
+        System.out.println(dog2.name);
     }
 }

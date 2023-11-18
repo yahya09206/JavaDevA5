@@ -30,7 +30,7 @@ public class Dog {
         name = dogName;
         breed = dogBreed;
         gender = dogGender;
-        color = dogColor;
+        age = dogAge;
         size = dogSize;
         color = dogColor;
 
