@@ -6,7 +6,7 @@ public class Address {
     public int zipCode;
     public static String country = "United States";
 
-    public Address(String buildingNumber, String street, String city, String state, int zipCode) {
+    public void setInfo(String buildingNumber, String street, String city, String state, int zipCode) {
         this.buildingNumber = buildingNumber;
         this.street = street;
         this.city = city;
