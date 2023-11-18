@@ -13,4 +13,9 @@ public class Address {
         this.state = state;
         this.zipCode = zipCode;
     }
+
+    @Override
+    public String toString() {
+        return buildingNumber + " " + street + "\n" + city + " " + state + ", " + zipCode;
+    }
 }
