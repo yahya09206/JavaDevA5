@@ -5,7 +5,17 @@ public class DogPark {
 
         Dog dog1 = new Dog();
         dog1.name = "Mikey";
+        dog1.gender = "Male";
+        dog1.breed = "bull terrier";
+        dog1.size = "tiny";
+        dog1.age = 32;
+        dog1.color = "yellowish brown";
 
         System.out.println(dog1.name);
+        System.out.println(dog1.gender);
+        System.out.println(dog1.breed);
+        System.out.println(dog1.size);
+        System.out.println(dog1.age);
+        System.out.println(dog1.color);
     }
 }
