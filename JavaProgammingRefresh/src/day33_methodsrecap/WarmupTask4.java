@@ -12,6 +12,7 @@ public class WarmupTask4 {
 
         for (int i = 0; i <= str.length() - 1; i++){
             char each = str.charAt(i);
+            // check if char has been seen
             if (!result.contains("" + each)){
                 result += each;
             }
