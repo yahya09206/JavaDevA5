@@ -17,5 +17,24 @@ public class Square {
         this.side = side;
     }
 
+    public double area(){
+        return side * side;
+    }
 
+    public double perimeter(){
+        return 4 * side;
+    }
+
+    public boolean equals(Square square){
+        return side == square.side;
+    }
+
+    @Override
+    public String toString() {
+        return "Square{" +
+                "side = " + side +
+                "area = " + area() +
+                "perimeter = " + perimeter() +
+                '}';
+    }
 }
