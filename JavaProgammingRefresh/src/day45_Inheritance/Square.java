@@ -4,7 +4,7 @@ public class Square {
 
     private double side;
 
-    public Square(){
+    public Square(double side){
         setSide(side);
     }
     public double getSide(){
@@ -26,7 +26,7 @@ public class Square {
     }
 
     public boolean equals(Square square){
-        return side == square.side;
+        return side == square.getSide();
     }
 
     @Override
