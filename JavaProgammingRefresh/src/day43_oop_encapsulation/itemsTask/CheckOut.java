@@ -22,5 +22,7 @@ public class CheckOut {
 
             totalCost += eachItem.calcCost() * 1.08;
         }
+
+        System.out.println("totalCost = " + totalCost);
     }
 }
