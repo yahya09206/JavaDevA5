@@ -17,8 +17,10 @@ public class CheckOut {
                 item5
         ));
 
+        double totalCost = 0;
         for (Item eachItem : items) {
 
+            totalCost += eachItem.calcCost() * 1.08;
         }
     }
 }
