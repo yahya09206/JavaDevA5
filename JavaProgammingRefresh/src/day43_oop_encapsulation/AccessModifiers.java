@@ -7,5 +7,9 @@ public class AccessModifiers {
     static int defaultVariable = 200;
     private static int privateVariable = 200;
 
-
+    public static void main(String[] args) {
+        System.out.println(privateVariable);
+        System.out.println(defaultVariable);
+        System.out.println(publicVariable);
+    }
 }
