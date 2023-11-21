@@ -6,5 +6,12 @@ public class SquareObjects {
         Square square1 = new Square(-1);
 
         System.out.println(square1.getSide());
+
+        square1.setSide(20);
+
+        // found correct video
+        System.out.println(square1.getSide());
+
+
     }
 }
