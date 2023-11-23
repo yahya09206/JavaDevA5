@@ -12,6 +12,9 @@ public class SquareObjects {
         // found correct video
         System.out.println(square1.getSide());
 
+        Square square2 = new Square(square1.getSide());
+        System.out.println(square1.equals(square2));
+
 
     }
 }
