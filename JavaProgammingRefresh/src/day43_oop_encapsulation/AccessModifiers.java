@@ -8,6 +8,7 @@ public class AccessModifiers {
     private static int privateVariable = 200;
 
     public static void main(String[] args) {
+        // starting final tomorrow
         System.out.println(privateVariable);
         System.out.println(defaultVariable);
         System.out.println(publicVariable);
