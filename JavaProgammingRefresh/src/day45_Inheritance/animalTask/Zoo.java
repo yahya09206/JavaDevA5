@@ -19,5 +19,13 @@ public class Zoo {
         cat.sleep();
         System.out.println(cat);
 
+        System.out.println("----------------------------");
+        Tiger tiger = new Tiger("Tarzan", "Bengal", 'M', "Large", 15, "White");
+        tiger.roar();
+        tiger.eat("tiger food");
+        tiger.drink("water");
+        tiger.sleep();
+        System.out.println(tiger);
+
     }
 }
