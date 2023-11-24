@@ -9,5 +9,15 @@ public class Zoo {
         dog.eat("dog food");
         dog.drink("water");
         dog.sleep();
+        System.out.println(dog);
+
+        System.out.println("----------------------------");
+        Cat cat = new Cat("Garfield", "Siamese", 'F', "Tiny", 3, "Orange");
+        cat.meow();
+        cat.eat("cat food");
+        cat.drink("milk");
+        cat.sleep();
+        System.out.println(cat);
+
     }
 }
