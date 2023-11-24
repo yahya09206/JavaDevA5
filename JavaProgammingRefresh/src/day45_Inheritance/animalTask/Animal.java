@@ -8,8 +8,9 @@ public class Animal {
     public String size;
     public int age;
     public String color;
+    public static boolean sleep = true;
     public static boolean breathe = true;
-    public Animal(String name, String breed, char gender, String size, int age, String color) {
+    public void setInfo(String name, String breed, char gender, String size, int age, String color) {
         this.name = name;
         this.breed = breed;
         this.gender = gender;
