@@ -19,6 +19,7 @@ public class Zoo {
         cat.sleep();
         System.out.println(cat);
 
+        // new tiget object
         System.out.println("----------------------------");
         Tiger tiger = new Tiger("Tarzan", "Bengal", 'M', "Large", 15, "White");
         tiger.roar();
