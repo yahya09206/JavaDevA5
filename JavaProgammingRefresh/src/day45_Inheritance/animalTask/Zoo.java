@@ -11,6 +11,7 @@ public class Zoo {
         dog.sleep();
         System.out.println(dog);
 
+        // new instance of cat object
         System.out.println("----------------------------");
         Cat cat = new Cat("Garfield", "Siamese", 'F', "Tiny", 3, "Orange");
         cat.meow();
