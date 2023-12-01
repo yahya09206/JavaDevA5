@@ -6,6 +6,7 @@ public class Cat extends Animal{
         super(name, breed, gender, size, age, color);
     }
 
+    // method to call meow
     public void meow(){
         System.out.println(name + " is meowing");
     }
