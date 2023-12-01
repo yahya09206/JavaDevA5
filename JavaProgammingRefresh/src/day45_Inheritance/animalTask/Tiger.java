@@ -7,6 +7,7 @@ public class Tiger extends Animal{
         super(name, breed, gender, size, age, color);
     }
 
+    // instance method
     public void roar(){
         System.out.println(name + " is roaring");
     }
