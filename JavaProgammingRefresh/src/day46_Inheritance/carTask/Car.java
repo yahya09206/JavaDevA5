@@ -1,4 +1,4 @@
-package day46_Inheritance;
+package day46_Inheritance.carTask;
 
 public class Car {
 
@@ -63,12 +63,22 @@ public class Car {
     }
 
     public void start(){
-
+        System.out.println(brand + " " + model + " is starting");
     }
 
     public void drive(){
-
+        System.out.println(brand + " " + model + " is ready to drive");
     }
 
-
+    @Override
+    public String toString() {
+        return "Car{" +
+                "brand='" + brand + '\'' +
+                ", model='" + model + '\'' +
+                ", year=" + year +
+                ", price=" + price +
+                ", color='" + color + '\'' +
+                ", miles=" + miles +
+                '}';
+    }
 }
