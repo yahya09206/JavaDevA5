@@ -1,6 +1,6 @@
 package day45_Inheritance.animalTask;
 
-// cat class extending from Animal
+// cat class extending from Animal to practice inheritance
 public class Cat extends Animal{
 
     // cat constructor
