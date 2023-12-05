@@ -18,49 +18,6 @@ public class Car {
         this.miles = miles;
     }
 
-    public String getBrand() {
-        return brand;
-    }
-
-    public void setBrand(String brand) {
-        this.brand = brand;
-    }
-
-    public String getModel() {
-        return model;
-    }
-
-    public void setModel(String model) {
-        this.model = model;
-    }
-
-    public int getYear() {
-        return year;
-    }
-
-    public double getPrice() {
-        return price;
-    }
-
-    public void setPrice(double price) {
-        this.price = price;
-    }
-
-    public String getColor() {
-        return color;
-    }
-
-    public void setColor(String color) {
-        this.color = color;
-    }
-
-    public long getMiles() {
-        return miles;
-    }
-
-    public void setMiles(long miles) {
-        this.miles = miles;
-    }
 
     public void start(){
         System.out.println(brand + " " + model + " is starting");
