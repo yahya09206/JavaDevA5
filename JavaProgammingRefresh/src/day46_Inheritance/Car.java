@@ -55,4 +55,14 @@ public class Car {
     public void setMiles(double miles) {
         this.miles = miles;
     }
+
+    public void start(){
+
+    }
+
+    public void drive(){
+
+    }
+
+
 }
