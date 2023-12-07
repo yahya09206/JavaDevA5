@@ -8,6 +8,7 @@ public class Car {
     public String color;
     public long miles;
 
+    // car constructor
 
     public Car(String brand, String model, int year, double price, String color, long miles) {
         this.brand = brand;
