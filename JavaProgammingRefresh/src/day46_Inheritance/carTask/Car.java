@@ -19,7 +19,7 @@ public class Car {
         this.miles = miles;
     }
 
-
+    // instance mmethod
     public void start(){
         System.out.println(brand + " " + model + " is starting");
     }
