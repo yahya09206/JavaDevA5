@@ -24,6 +24,7 @@ public class Car {
         System.out.println(brand + " " + model + " is starting");
     }
 
+    // method for drive
     public void drive(){
         System.out.println(brand + " " + model + " is ready to drive");
     }
