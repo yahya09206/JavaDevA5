@@ -29,6 +29,7 @@ public class Car {
         System.out.println(brand + " " + model + " is ready to drive");
     }
 
+    // To string method
     @Override
     public String toString() {
         return "Car{" +
