@@ -2,6 +2,7 @@ package day46_Inheritance.carTask;
 
 public class Toyota extends Car{
 
+    // static variable
     public static boolean isReliable = true;
 
     // starting java shorts soon
