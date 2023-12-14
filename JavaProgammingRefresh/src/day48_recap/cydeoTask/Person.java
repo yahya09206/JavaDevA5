@@ -10,9 +10,29 @@ public class Person {
     private final LocalDate dOB;
 
     public Person(String name, char gender, int age, LocalDate dOB) {
-        this.name = name;
+        setName(name);
         this.gender = gender;
         this.age = age;
         this.dOB = dOB;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public char getGender() {
+        return gender;
+    }
+
+    public int getAge() {
+        return age;
+    }
+
+    public LocalDate getdOB() {
+        return dOB;
     }
 }
