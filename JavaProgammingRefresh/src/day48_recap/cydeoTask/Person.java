@@ -4,8 +4,15 @@ import java.time.LocalDate;
 
 public class Person {
 
-    private String name;
-    private char gender;
-    private int age;
-    private LocalDate dOB;
+    private final String name;
+    private final char gender;
+    private final int age;
+    private final LocalDate dOB;
+
+    public Person(String name, char gender, int age, LocalDate dOB) {
+        this.name = name;
+        this.gender = gender;
+        this.age = age;
+        this.dOB = dOB;
+    }
 }
