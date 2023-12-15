@@ -41,4 +41,12 @@ public class Employee extends Person{
         }
         this.salary = salary;
     }
+
+    public void work(){
+        System.out.println(getName() + " is working");
+    }
+
+    public void attendMeeting(){
+        System.out.println(getName() + " is attending meeting");
+    }
 }
