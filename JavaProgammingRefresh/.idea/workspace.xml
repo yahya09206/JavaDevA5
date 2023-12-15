@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/day48_recap/cydeoTask/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day48_recap/cydeoTask/Person.java" afterDir="false" />
-    </list>
+    <list default="true" id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -242,7 +240,7 @@
       <workItem from="1697822402358" duration="3919000" />
       <workItem from="1699570511169" duration="19649000" />
       <workItem from="1700152712109" duration="36747000" />
-      <workItem from="1702347456538" duration="4966000" />
+      <workItem from="1702347456538" duration="5595000" />
     </task>
     <servers />
   </component>
