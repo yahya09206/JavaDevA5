@@ -43,4 +43,14 @@ public class Person {
     public void drink(String drink){
         System.out.println(name + " is drinking " + drink);
     }
+
+    @Override
+    public String toString() {
+        return "Person{" +
+                "name='" + name + '\'' +
+                ", gender=" + gender +
+                ", age=" + age +
+                ", dOB=" + dOB +
+                '}';
+    }
 }
