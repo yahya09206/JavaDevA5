@@ -9,7 +9,23 @@ public class Student extends Person{
 
     public Student(String name, char gender, LocalDate dOB, String schoolName, int id) {
         super(name, gender, dOB);
+        setSchoolName(schoolName);
+        setId(id);
+    }
+
+    public String getSchoolName() {
+        return schoolName;
+    }
+
+    public void setSchoolName(String schoolName) {
         this.schoolName = schoolName;
+    }
+
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
         this.id = id;
     }
 }
