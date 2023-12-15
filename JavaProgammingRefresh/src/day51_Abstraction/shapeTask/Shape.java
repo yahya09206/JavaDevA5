@@ -2,7 +2,7 @@ package day51_Abstraction.shapeTask;
 
 public class Shape {
 
-    private String name;
+    private final String name;
 
     public Shape(String name) {
         this.name = name;
@@ -12,7 +12,4 @@ public class Shape {
         return name;
     }
 
-    public void setName(String name) {
-        this.name = name;
-    }
 }
