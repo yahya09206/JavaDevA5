@@ -12,4 +12,6 @@ public class Shape {
         return name;
     }
 
+    public abstract double area();
+
 }
