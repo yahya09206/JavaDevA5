@@ -49,4 +49,13 @@ public class Employee extends Person{
     public void attendMeeting(){
         System.out.println(getName() + " is attending meeting");
     }
+
+    @Override
+    public String toString() {
+        return "Employee{" +
+                "employeeId=" + employeeId +
+                ", jobTitle='" + jobTitle + '\'' +
+                ", salary=" + salary +
+                '}';
+    }
 }
