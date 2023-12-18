@@ -1,11 +1,16 @@
 package day51_Abstraction.shapeTask;
 
-public class Square {
+public class Square extends Shape{
 
     private double s;
 
     public double getS() {
         return s;
+    }
+
+    public Square(double s) {
+        super("Square");
+        setS(s);
     }
 
     public void setS(double s) {
