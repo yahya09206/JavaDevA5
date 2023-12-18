@@ -14,6 +14,7 @@ public abstract class Shape {
 
     //abstract methods
     public abstract double area();
+    // abstract perimeter method
     public abstract double perimeter();
 
 }
