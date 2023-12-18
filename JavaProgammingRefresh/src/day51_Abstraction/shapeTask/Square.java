@@ -19,4 +19,14 @@ public class Square extends Shape{
         }
         this.s = s;
     }
+
+    @Override
+    public double area(){
+        return 2 * s;
+    }
+
+    @Override
+    public double perimeter(){
+        return 2 * s;
+    }
 }
