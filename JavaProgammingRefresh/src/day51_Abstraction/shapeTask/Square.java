@@ -22,11 +22,11 @@ public class Square extends Shape{
 
     @Override
     public double area(){
-        return 2 * s;
+        return s * s;
     }
 
     @Override
     public double perimeter(){
-        return 2 * s;
+        return s * 4;
     }
 }
