@@ -5,9 +5,9 @@ public class Circle extends Shape{
     public double r;
     public final static double PI = 3.14;
 
-    public Circle(String name, double r) {
-        super(name);
-        this.r = r;
+    public Circle(double r) {
+        super("Cirlce");
+        setR(r);
     }
 
     public double getR() {
