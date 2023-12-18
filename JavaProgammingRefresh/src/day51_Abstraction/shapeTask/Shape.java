@@ -12,9 +12,15 @@ public abstract class Shape {
         return name;
     }
 
-    //abstract methods
     public abstract double area();
-    // abstract perimeter method
     public abstract double perimeter();
 
+    @Override
+    public String toString() {
+        return "Shape{" +
+                "name='" + name + '\'' +
+                ", area = " + area() +
+                ", perimeter = " + perimeter() +
+                '}';
+    }
 }
