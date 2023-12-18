@@ -9,6 +9,9 @@ public class Square {
     }
 
     public void setS(double s) {
+        if (s <= 0){
+            throw new RuntimeException("Invalid Side: " + s);
+        }
         this.s = s;
     }
 }
