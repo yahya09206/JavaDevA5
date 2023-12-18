@@ -17,4 +17,14 @@ public class Circle extends Shape{
     public void setR(double r) {
         this.r = r;
     }
+
+    @Override
+    public double area(){
+        return r * r * PI;
+    }
+
+    @Override
+    public double perimeter(){
+        return 2 * r * PI;
+    }
 }
