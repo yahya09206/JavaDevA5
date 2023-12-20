@@ -1,4 +1,6 @@
 package day52_Interface.animalTask;
 
-public class Playable {
+public interface Playable {
+
+    void play();
 }
