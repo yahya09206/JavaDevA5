@@ -25,6 +25,7 @@ public class Square extends Shape{
         return s * s;
     }
 
+    // override abstract perimeter method
     @Override
     public double perimeter(){
         return s * 4;
