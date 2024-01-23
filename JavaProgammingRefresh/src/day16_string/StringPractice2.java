@@ -18,6 +18,6 @@ public class StringPractice2 {
             System.out.println("Too short");
         }
 
-        System.out.println("result = " + result);
+        scanner.close();
     }
 }
