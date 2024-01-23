@@ -11,6 +11,8 @@ public class StringPractice2 {
         String word1 = scanner.next();
         String word2 = scanner.next();
 
+        String result = word1.substring(1) + word2.substring(1);
 
+        System.out.println("result = " + result);
     }
 }
