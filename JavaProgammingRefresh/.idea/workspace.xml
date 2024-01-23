@@ -119,6 +119,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.StringPractice1.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -130,7 +131,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Zoo">
+  <component name="RunManager" selected="Application.StringPractice1">
     <configuration name="CheckOut" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day43_oop_encapsulation.itemsTask.CheckOut" />
       <module name="JavaProgammingRefresh" />
@@ -170,12 +171,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day39_static.StaticExamples" />
+    <configuration name="StringPractice1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day16_string.StringPractice1" />
       <module name="JavaProgammingRefresh" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day39_static.*" />
+          <option name="PATTERN" value="day16_string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -198,11 +199,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringPractice1" />
         <item itemvalue="Application.Zoo" />
         <item itemvalue="Application.SquareObjects" />
         <item itemvalue="Application.CheckOut" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.StaticExamples" />
       </list>
     </recent_temporary>
   </component>
@@ -249,7 +250,7 @@
       <workItem from="1699570511169" duration="19649000" />
       <workItem from="1700152712109" duration="36747000" />
       <workItem from="1702347456538" duration="21116000" />
-      <workItem from="1705966581431" duration="1215000" />
+      <workItem from="1705966581431" duration="1332000" />
     </task>
     <servers />
   </component>
