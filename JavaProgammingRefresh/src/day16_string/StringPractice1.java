@@ -15,6 +15,8 @@ public class StringPractice1 {
         } else {
             System.out.println(word);
         }
+
+        scan.close();
     }
 }
 /**
