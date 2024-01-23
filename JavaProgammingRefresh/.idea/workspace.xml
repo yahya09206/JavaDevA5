@@ -7,6 +7,7 @@
     <list default="true" id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day16_string/StringPractice1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day16_string/StringPractice1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -249,7 +250,7 @@
       <workItem from="1699570511169" duration="19649000" />
       <workItem from="1700152712109" duration="36747000" />
       <workItem from="1702347456538" duration="21116000" />
-      <workItem from="1705966581431" duration="559000" />
+      <workItem from="1705966581431" duration="600000" />
     </task>
     <servers />
   </component>
