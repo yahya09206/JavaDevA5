@@ -7,5 +7,10 @@ public class StringPractice2 {
 
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter two words");
+
+        String word1 = scanner.next();
+        String word2 = scanner.next();
+
+
     }
 }
