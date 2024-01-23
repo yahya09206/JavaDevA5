@@ -131,26 +131,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.StringPractice1">
+  <component name="RunManager" selected="Application.StringPractice2">
     <configuration name="CheckOut" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day43_oop_encapsulation.itemsTask.CheckOut" />
       <module name="JavaProgammingRefresh" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day43_oop_encapsulation.itemsTask.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day40_statics.Main" />
-      <module name="JavaProgammingRefresh" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day40_statics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,6 +171,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringPractice2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day16_string.StringPractice2" />
+      <module name="JavaProgammingRefresh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day16_string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Zoo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day45_Inheritance.animalTask.Zoo" />
       <module name="JavaProgammingRefresh" />
@@ -199,11 +199,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringPractice2" />
         <item itemvalue="Application.StringPractice1" />
         <item itemvalue="Application.Zoo" />
         <item itemvalue="Application.SquareObjects" />
         <item itemvalue="Application.CheckOut" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -250,7 +250,7 @@
       <workItem from="1699570511169" duration="19649000" />
       <workItem from="1700152712109" duration="36747000" />
       <workItem from="1702347456538" duration="21116000" />
-      <workItem from="1705966581431" duration="1674000" />
+      <workItem from="1705966581431" duration="1695000" />
     </task>
     <servers />
   </component>
