@@ -3,6 +3,7 @@ package day16_string;
 public class StringMethods {
     public static void main(String[] args) {
 
+        // Replace first method
         String email = "Cydeo@yahoo.com";
         email = email.replace("yahoo", "gmail");
 
