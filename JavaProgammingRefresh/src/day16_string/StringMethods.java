@@ -8,6 +8,7 @@ public class StringMethods {
         // replacing yahoo with gmail
         email = email.replace("yahoo", "gmail");
 
+        // print email with replacements
         System.out.println(email);
 
         // replace method
