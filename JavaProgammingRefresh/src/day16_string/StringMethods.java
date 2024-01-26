@@ -5,6 +5,7 @@ public class StringMethods {
 
         // Replace first method
         String email = "Cydeo@yahoo.com";
+        // replacing yahoo with gmail
         email = email.replace("yahoo", "gmail");
 
         System.out.println(email);

@@ -124,6 +124,7 @@
     &quot;Application.StringPractice2.executor&quot;: &quot;Run&quot;,
     &quot;Application.StringPractice3.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -255,6 +256,8 @@
       <workItem from="1702347456538" duration="21116000" />
       <workItem from="1705966581431" duration="3020000" />
       <workItem from="1706058138537" duration="58000" />
+      <workItem from="1706145166639" duration="229000" />
+      <workItem from="1706238978974" duration="31000" />
     </task>
     <servers />
   </component>
