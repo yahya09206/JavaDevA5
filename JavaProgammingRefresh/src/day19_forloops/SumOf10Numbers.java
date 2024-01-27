@@ -15,5 +15,7 @@ public class SumOf10Numbers {
         }
 
         System.out.println("result = " + result);
+
+        scanner.close();
     }
 }
