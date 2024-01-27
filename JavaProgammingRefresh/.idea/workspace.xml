@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day19_forloops/StringReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day19_forloops/StringReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day19_forloops/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day19_forloops/Palindrome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -262,7 +261,7 @@
       <workItem from="1706058138537" duration="58000" />
       <workItem from="1706145166639" duration="229000" />
       <workItem from="1706238978974" duration="305000" />
-      <workItem from="1706397824359" duration="1796000" />
+      <workItem from="1706397824359" duration="1898000" />
     </task>
     <servers />
   </component>
