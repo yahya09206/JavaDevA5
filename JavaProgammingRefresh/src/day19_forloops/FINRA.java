@@ -5,9 +5,13 @@ public class FINRA {
 
         for (int i = 0; i <= 100; i++){
             if (i % 15 == 0){
-                System.out.println("FINRA");
+                System.out.print("FINRA ");
             } else if (i % 3 == 0){
-                System.out.println("FIN ");
+                System.out.print("FIN ");
+            } else if (i % 5 == 0){
+                System.out.println("RA ");
+            } else {
+                System.out.println(i + " ");
             }
         }
     }
