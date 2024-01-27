@@ -11,12 +11,9 @@ public class SumOf10Numbers {
 
         for (int i = 0; i <= 10; i++){
             System.out.println("Enter number: " + i);
-            int number = scanner.nextInt();
-            result += number;
+            result += scanner.nextInt();
         }
 
         System.out.println("result = " + result);
-
-
     }
 }
