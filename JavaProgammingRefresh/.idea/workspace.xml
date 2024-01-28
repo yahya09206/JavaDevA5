@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/day19_forloops/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day19_forloops/Palindrome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -120,6 +121,7 @@
   "keyToString": {
     "Application.FINRA.executor": "Run",
     "Application.MaximumNumber.executor": "Run",
+    "Application.Palindrome.executor": "Run",
     "Application.StringMethods.executor": "Run",
     "Application.StringPractice1.executor": "Run",
     "Application.StringPractice2.executor": "Run",
@@ -138,7 +140,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.StringReverse">
+  <component name="RunManager" selected="Application.Palindrome">
     <configuration name="FINRA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day19_forloops.FINRA" />
       <module name="JavaProgammingRefresh" />
@@ -165,12 +167,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day16_string.StringMethods" />
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day19_forloops.Palindrome" />
       <module name="JavaProgammingRefresh" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day16_string.*" />
+          <option name="PATTERN" value="day19_forloops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,11 +208,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.StringReverse" />
         <item itemvalue="Application.MaximumNumber" />
         <item itemvalue="Application.SumOf10Numbers" />
         <item itemvalue="Application.FINRA" />
-        <item itemvalue="Application.StringMethods" />
       </list>
     </recent_temporary>
   </component>
@@ -261,7 +263,7 @@
       <workItem from="1706058138537" duration="58000" />
       <workItem from="1706145166639" duration="229000" />
       <workItem from="1706238978974" duration="305000" />
-      <workItem from="1706397824359" duration="1898000" />
+      <workItem from="1706397824359" duration="2060000" />
     </task>
     <servers />
   </component>
