@@ -122,6 +122,7 @@
     "Application.FINRA.executor": "Run",
     "Application.MaximumNumber.executor": "Run",
     "Application.Palindrome.executor": "Run",
+    "Application.RemoveDuplicates.executor": "Run",
     "Application.StringMethods.executor": "Run",
     "Application.StringPractice1.executor": "Run",
     "Application.StringPractice2.executor": "Run",
@@ -140,20 +141,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Palindrome">
-    <configuration name="FINRA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day19_forloops.FINRA" />
-      <module name="JavaProgammingRefresh" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day19_forloops.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.RemoveDuplicates">
     <configuration name="MaximumNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day19_forloops.MaximumNumber" />
       <module name="JavaProgammingRefresh" />
@@ -169,6 +157,19 @@
     </configuration>
     <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day19_forloops.Palindrome" />
+      <module name="JavaProgammingRefresh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day19_forloops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day19_forloops.RemoveDuplicates" />
       <module name="JavaProgammingRefresh" />
       <extension name="coverage">
         <pattern>
@@ -208,11 +209,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoveDuplicates" />
         <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.StringReverse" />
         <item itemvalue="Application.MaximumNumber" />
         <item itemvalue="Application.SumOf10Numbers" />
-        <item itemvalue="Application.FINRA" />
       </list>
     </recent_temporary>
   </component>
@@ -263,7 +264,7 @@
       <workItem from="1706058138537" duration="58000" />
       <workItem from="1706145166639" duration="229000" />
       <workItem from="1706238978974" duration="305000" />
-      <workItem from="1706397824359" duration="2461000" />
+      <workItem from="1706397824359" duration="2501000" />
     </task>
     <servers />
   </component>
