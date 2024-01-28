@@ -3,12 +3,13 @@ package day20_forloops;
 public class FrequencyOfWord2 {
     public static void main(String[] args) {
 
-        String sentence = "Python Python Python Python";
+        String sentence = "Python wow wow wow Python Python Python";
+        String word = "wow";
         int count = 0;
 
         for (int i = 0; i <= sentence.length() - 6; i++){
-            String each = sentence.substring(i, i+6);
-            if (each.equals("Python")){
+            String each = sentence.substring(i, i+ word.length());
+            if (each.equals(word)){
                 count++;
             }
         }
