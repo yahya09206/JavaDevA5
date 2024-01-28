@@ -8,10 +8,14 @@ public class UniqueCharacters {
 
 
         for (int i = 0; i <= word.length() - 1; i++){
+            // break the string up into individual chars
             char ch = word.charAt(i);
+            // comparing the char with the first time and last time it was read
             boolean isUnique = word.indexOf(ch) == word.lastIndexOf(ch);
 
+            // check if char is unique
             if (isUnique){
+                // if so, add it to the list of chars
                 result += ch;
             }
         }

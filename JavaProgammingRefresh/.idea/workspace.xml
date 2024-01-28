@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day19_forloops/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day19_forloops/RemoveDuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day19_forloops/UniqueCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day19_forloops/UniqueCharacters.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +141,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.RemoveDuplicates">
+  <component name="RunManager" selected="Application.UniqueCharacters">
     <configuration name="MaximumNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day19_forloops.MaximumNumber" />
       <module name="JavaProgammingRefresh" />
@@ -194,8 +194,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOf10Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day19_forloops.SumOf10Numbers" />
+    <configuration name="UniqueCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day19_forloops.UniqueCharacters" />
       <module name="JavaProgammingRefresh" />
       <extension name="coverage">
         <pattern>
@@ -209,11 +209,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UniqueCharacters" />
         <item itemvalue="Application.RemoveDuplicates" />
         <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.StringReverse" />
         <item itemvalue="Application.MaximumNumber" />
-        <item itemvalue="Application.SumOf10Numbers" />
       </list>
     </recent_temporary>
   </component>
@@ -264,7 +264,7 @@
       <workItem from="1706058138537" duration="58000" />
       <workItem from="1706145166639" duration="229000" />
       <workItem from="1706238978974" duration="305000" />
-      <workItem from="1706397824359" duration="2501000" />
+      <workItem from="1706397824359" duration="2714000" />
     </task>
     <servers />
   </component>
