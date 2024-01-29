@@ -7,6 +7,7 @@ public class FrequencyOfWord2 {
         String word = "wow";
         int count = 0;
 
+        // generalize for any string
         for (int i = 0; i <= sentence.length() - 6; i++){
             String each = sentence.substring(i, i+ word.length());
             if (each.equals(word)){
