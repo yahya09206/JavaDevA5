@@ -14,6 +14,7 @@ public class FrequencyOfWord {
                 count++;
             }
         }
+        // print out count
 
         System.out.println("count = " + count);
     }
