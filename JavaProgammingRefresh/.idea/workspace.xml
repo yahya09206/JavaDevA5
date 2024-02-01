@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day20_forloops/FrequencyOfWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day20_forloops/FrequencyOfWord.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/day20_forloops/FrequencyOfWord2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day20_forloops/FrequencyOfWord2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -271,7 +270,8 @@
       <workItem from="1706397824359" duration="3821000" />
       <workItem from="1706505443155" duration="27000" />
       <workItem from="1706586399948" duration="638000" />
-      <workItem from="1706660453147" duration="44000" />
+      <workItem from="1706660453147" duration="61000" />
+      <workItem from="1706745788955" duration="22000" />
     </task>
     <servers />
   </component>

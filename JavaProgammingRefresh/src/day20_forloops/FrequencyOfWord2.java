@@ -16,6 +16,7 @@ public class FrequencyOfWord2 {
             }
         }
 
+        // print out count
         System.out.println("count = " + count);
     }
 }
