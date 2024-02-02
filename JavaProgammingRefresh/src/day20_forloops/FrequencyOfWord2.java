@@ -3,6 +3,7 @@ package day20_forloops;
 public class FrequencyOfWord2 {
     public static void main(String[] args) {
 
+        // Sentence to check
         String sentence = "Python wow wow wow Python Python Python";
         String word = "wow";
         int count = 0;
