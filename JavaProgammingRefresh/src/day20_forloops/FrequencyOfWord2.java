@@ -12,6 +12,7 @@ public class FrequencyOfWord2 {
         for (int i = 0; i <= sentence.length() - 6; i++){
             // start at beginning of word up until it's length
             String each = sentence.substring(i, i+ word.length());
+            // check if word is equal to index
             if (each.equals(word)){
                 count++;
             }
