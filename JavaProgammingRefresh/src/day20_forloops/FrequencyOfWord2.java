@@ -6,6 +6,7 @@ public class FrequencyOfWord2 {
         // Sentence to check
         String sentence = "Python wow wow wow Python Python Python";
         String word = "wow";
+        // keep track of count
         int count = 0;
 
         // generalize for any string
