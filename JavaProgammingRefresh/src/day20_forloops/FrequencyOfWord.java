@@ -4,6 +4,7 @@ public class FrequencyOfWord {
     public static void main(String[] args) {
 
         String sentence = "Java Java";
+        // keep track of count
         int count = 0;
 
         // loop through word ending with length of word
