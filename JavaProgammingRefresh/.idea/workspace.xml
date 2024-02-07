@@ -7,10 +7,6 @@
     <list default="true" id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/day23_arrays/ArraysIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day23_arrays/ArraysIntro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day23_arrays/Days.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day23_arrays/Days.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day23_arrays/MaximumNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day23_arrays/MaximumNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day23_arrays/Months.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day23_arrays/Months.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day23_arrays/MyClassMates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day23_arrays/MyClassMates.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -278,7 +274,9 @@
       <workItem from="1706745788955" duration="39000" />
       <workItem from="1706844348745" duration="41000" />
       <workItem from="1706934136942" duration="1865000" />
-      <workItem from="1707159563581" duration="215000" />
+      <workItem from="1707159563581" duration="448000" />
+      <workItem from="1707250394718" duration="36000" />
+      <workItem from="1707290895819" duration="10000" />
     </task>
     <servers />
   </component>
