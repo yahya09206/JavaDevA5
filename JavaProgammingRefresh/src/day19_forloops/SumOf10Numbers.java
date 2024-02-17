@@ -26,5 +26,16 @@ public class SumOf10Numbers {
         }
 
         System.out.println("sum2 = " + sum2);
+
+        System.out.println();
+        System.out.println("-----------------------");
+        int sum3 = 0;
+        for (int i = 0; i <= 10; i++){
+            System.out.println("Enter a number");
+            int n = scanner.nextInt();
+            sum3 += n;
+        }
+
+        System.out.println(sum3);
     }
 }
