@@ -13,5 +13,12 @@ public class ForLoopPractice2 {
         for (char i = 'Z'; i >= 'A'; i--){
             System.out.print(i + " ");
         }
+
+        System.out.println();
+        System.out.println("----------------------------------");
+
+        for (char i = 20; i <= 200; i++){
+            System.out.print(i + " ");
+        }
     }
 }
