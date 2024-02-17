@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/day19_forloops/ForLoopPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/day19_forloops/ForLoopPractice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day19_forloops/ForLoopPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day19_forloops/ForLoopPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/day19_forloops/ForLoopPractice2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/day19_forloops/ForLoopPractice2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day19_forloops/ForLoopPractice2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day19_forloops/ForLoopPractice2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,6 +123,7 @@
     "Application.FINRA.executor": "Run",
     "Application.ForLoopIntro.executor": "Run",
     "Application.ForLoopPractice.executor": "Run",
+    "Application.ForLoopPractice2.executor": "Run",
     "Application.FrequencyOfWord.executor": "Run",
     "Application.FrequencyOfWord2.executor": "Run",
     "Application.MaximumNumber.executor": "Run",
@@ -284,7 +285,7 @@
       <workItem from="1707523000824" duration="29000" />
       <workItem from="1707636165614" duration="622000" />
       <workItem from="1708104800381" duration="267000" />
-      <workItem from="1708192830108" duration="2128000" />
+      <workItem from="1708192830108" duration="2234000" />
     </task>
     <servers />
   </component>
