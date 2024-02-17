@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/day19_forloops/SumOf10Numbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/day19_forloops/SumOf10Numbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day19_forloops/SumOf10Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day19_forloops/SumOf10Numbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,6 +131,7 @@
     "Application.Palindrome.executor": "Run",
     "Application.RemoveDuplicates.executor": "Run",
     "Application.Shape.executor": "Run",
+    "Application.Shape2.executor": "Run",
     "Application.StringMethods.executor": "Run",
     "Application.StringPractice1.executor": "Run",
     "Application.StringPractice2.executor": "Run",
@@ -148,22 +151,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Shape2">
+  <component name="RunManager" selected="Application.SumOf10Numbers">
     <configuration name="FINRA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day19_forloops.FINRA" />
-      <module name="JavaProgammingRefresh" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day19_forloops.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ForLoopPractice2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day19_forloops.ForLoopPractice2" />
       <module name="JavaProgammingRefresh" />
       <extension name="coverage">
         <pattern>
@@ -214,13 +204,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SumOf10Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day19_forloops.SumOf10Numbers" />
+      <module name="JavaProgammingRefresh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day19_forloops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SumOf10Numbers" />
         <item itemvalue="Application.Shape2" />
         <item itemvalue="Application.Shape" />
         <item itemvalue="Application.FINRA" />
         <item itemvalue="Application.ForLoopPractice3" />
-        <item itemvalue="Application.ForLoopPractice2" />
       </list>
     </recent_temporary>
   </component>
@@ -285,7 +288,7 @@
       <workItem from="1707523000824" duration="29000" />
       <workItem from="1707636165614" duration="622000" />
       <workItem from="1708104800381" duration="267000" />
-      <workItem from="1708192830108" duration="3018000" />
+      <workItem from="1708192830108" duration="3279000" />
     </task>
     <servers />
   </component>
