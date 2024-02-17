@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/day19_forloops/UniqueCharacters.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/day19_forloops/UniqueCharacters.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day19_forloops/UniqueCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day19_forloops/UniqueCharacters.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,6 +119,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.FINRA.executor": "Run",
+    "Application.FactorialNumber.executor": "Run",
     "Application.ForLoopIntro.executor": "Run",
     "Application.ForLoopPractice.executor": "Run",
     "Application.ForLoopPractice2.executor": "Run",
@@ -152,13 +151,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.UniqueCharacters">
-    <configuration name="MinimumNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day19_forloops.MinimumNumber" />
+  <component name="RunManager" selected="Application.FactorialNumber">
+    <configuration name="FactorialNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day20_forloops.FactorialNumber" />
       <module name="JavaProgammingRefresh" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day19_forloops.*" />
+          <option name="PATTERN" value="day20_forloops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -220,11 +219,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FactorialNumber" />
         <item itemvalue="Application.UniqueCharacters" />
         <item itemvalue="Application.RemoveDuplicates" />
         <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.StringReverse" />
-        <item itemvalue="Application.MinimumNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -289,7 +288,7 @@
       <workItem from="1707523000824" duration="29000" />
       <workItem from="1707636165614" duration="622000" />
       <workItem from="1708104800381" duration="267000" />
-      <workItem from="1708192830108" duration="5105000" />
+      <workItem from="1708192830108" duration="5633000" />
     </task>
     <servers />
   </component>
