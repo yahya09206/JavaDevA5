@@ -11,6 +11,7 @@ public class FrequencyOfWord {
         for (int i = 0; i <= sentence.length() - 4; i++){
             // start with beginning of word until the end of its length
             String each = sentence.substring(i, i + 4);
+            // check if equals word
             if (each.equals("Java")){
                 count++;
             }
