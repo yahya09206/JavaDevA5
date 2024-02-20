@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day23_arrays/MaximumNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day23_arrays/MaximumNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -294,7 +293,7 @@
       <workItem from="1708104800381" duration="267000" />
       <workItem from="1708192830108" duration="6224000" />
       <workItem from="1708320848226" duration="117000" />
-      <workItem from="1708389130399" duration="3096000" />
+      <workItem from="1708389130399" duration="3381000" />
     </task>
     <servers />
   </component>
