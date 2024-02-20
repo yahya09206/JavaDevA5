@@ -6,5 +6,9 @@ public class MaximumNumber {
         int[] maxNumber = {1, 4, 33, 2, 45};
         int max = -2147483648;
         int min = 2147483647;
+
+        for (int i = 0; i <= maxNumber.length - 1; i++){
+
+        }
     }
 }
