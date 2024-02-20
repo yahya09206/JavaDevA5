@@ -154,7 +154,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Days">
+  <component name="RunManager" selected="Application.MyClassMates">
     <configuration name="ArraysIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day23_arrays.ArraysIntro" />
       <module name="JavaProgammingRefresh" />
@@ -194,12 +194,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day19_forloops.RemoveDuplicates" />
+    <configuration name="MyClassMates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day23_arrays.MyClassMates" />
       <module name="JavaProgammingRefresh" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day19_forloops.*" />
+          <option name="PATTERN" value="day23_arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -222,11 +222,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyClassMates" />
         <item itemvalue="Application.Days" />
         <item itemvalue="Application.ArraysIntro" />
         <item itemvalue="Application.FactorialNumber" />
         <item itemvalue="Application.UniqueCharacters" />
-        <item itemvalue="Application.RemoveDuplicates" />
       </list>
     </recent_temporary>
   </component>
@@ -293,7 +293,7 @@
       <workItem from="1708104800381" duration="267000" />
       <workItem from="1708192830108" duration="6224000" />
       <workItem from="1708320848226" duration="117000" />
-      <workItem from="1708389130399" duration="2302000" />
+      <workItem from="1708389130399" duration="2625000" />
     </task>
     <servers />
   </component>
