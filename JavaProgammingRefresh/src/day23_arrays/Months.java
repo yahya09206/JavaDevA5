@@ -7,11 +7,13 @@ public class Months {
 
         Scanner scanner = new Scanner(System.in);
         String[] months = {"Jan", "Feb", "Mar", "April", "May", "June", "July", "Aug", "Sep", "Oct", "Nov", "Dec"};
-        System.out.print("Please select a Month: ");
+        System.out.print("Please select a Number: ");
         int month = scanner.nextInt();
 
-        if (month == months[0]){
-
+        if (month >= 1 && month <= 12){
+            System.out.println(months[month - 1]);
+        } else {
+            System.out.println("Invalid Number");
         }
 
     }
