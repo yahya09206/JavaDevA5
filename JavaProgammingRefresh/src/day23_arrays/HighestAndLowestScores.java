@@ -10,6 +10,10 @@ public class HighestAndLowestScores {
         int maxScore = scores[0];
         String maxName = "";
 
+        // variables to store min score and name of person
+        int minScore = scores[0];
+        String minName = "";
+
         for (int i = 0; i <= scores.length - 1; i++){
             // Variables to represent names and scores
             String eachName = names[i];
@@ -19,9 +23,17 @@ public class HighestAndLowestScores {
                 maxScore = eachScore;
                 maxName = eachName;
             }
+
+            if (eachScore < minScore){
+                minScore = eachScore;
+                minName = eachName;
+            }
+
+
+
         }
 
-        System.out.println(maxScore);
-        System.out.println(maxName);
+        System.out.println("Max score " + maxScore + " belongs to " + maxName);
+        System.out.println("Min score " + minScore + " belongs to " + minName);
     }
 }
