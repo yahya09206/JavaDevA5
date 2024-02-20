@@ -20,5 +20,10 @@ public class AverageNumber {
             // add numbers to sum variable
             sum += nums[i];
         }
+
+        System.out.println("sum = " + sum);
+        // find average by dividing sum by length of array
+        double average = (double) sum / nums.length;
+        System.out.println("average = " + average);
     }
 }
