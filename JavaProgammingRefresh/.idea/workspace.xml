@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day23_arrays/HighestAndLowestScores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day23_arrays/HighestAndLowestScores.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,6 +129,7 @@
     "Application.ForLoopPractice3.executor": "Run",
     "Application.FrequencyOfWord.executor": "Run",
     "Application.FrequencyOfWord2.executor": "Run",
+    "Application.HighestAndLowestScores.executor": "Run",
     "Application.MaximumNumber.executor": "Run",
     "Application.MinimumNumber.executor": "Run",
     "Application.MyClassMates.executor": "Run",
@@ -154,7 +156,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MaximumNumber">
+  <component name="RunManager" selected="Application.HighestAndLowestScores">
     <configuration name="ArraysIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day23_arrays.ArraysIntro" />
       <module name="JavaProgammingRefresh" />
@@ -181,12 +183,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FactorialNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day20_forloops.FactorialNumber" />
+    <configuration name="HighestAndLowestScores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day23_arrays.HighestAndLowestScores" />
       <module name="JavaProgammingRefresh" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day20_forloops.*" />
+          <option name="PATTERN" value="day23_arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -222,11 +224,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HighestAndLowestScores" />
         <item itemvalue="Application.MaximumNumber" />
         <item itemvalue="Application.MyClassMates" />
         <item itemvalue="Application.Days" />
         <item itemvalue="Application.ArraysIntro" />
-        <item itemvalue="Application.FactorialNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -293,7 +295,7 @@
       <workItem from="1708104800381" duration="267000" />
       <workItem from="1708192830108" duration="6224000" />
       <workItem from="1708320848226" duration="117000" />
-      <workItem from="1708389130399" duration="3381000" />
+      <workItem from="1708389130399" duration="3549000" />
     </task>
     <servers />
   </component>
