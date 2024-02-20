@@ -28,9 +28,6 @@ public class HighestAndLowestScores {
                 minScore = eachScore;
                 minName = eachName;
             }
-
-
-
         }
 
         System.out.println("Max score " + maxScore + " belongs to " + maxName);
