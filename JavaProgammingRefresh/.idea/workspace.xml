@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/day23_arrays/HighestAndLowestScores.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/day23_arrays/HighestAndLowestScores.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/day23_arrays/AverageNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day23_arrays/AverageNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -118,46 +117,46 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ArraysIntro.executor": "Run",
-    "Application.AverageNumber.executor": "Run",
-    "Application.Days.executor": "Run",
-    "Application.FINRA.executor": "Run",
-    "Application.FactorialNumber.executor": "Run",
-    "Application.ForLoopIntro.executor": "Run",
-    "Application.ForLoopPractice.executor": "Run",
-    "Application.ForLoopPractice2.executor": "Run",
-    "Application.ForLoopPractice3.executor": "Run",
-    "Application.FrequencyOfWord.executor": "Run",
-    "Application.FrequencyOfWord2.executor": "Run",
-    "Application.HighestAndLowestScores.executor": "Run",
-    "Application.MaximumNumber.executor": "Run",
-    "Application.MinimumNumber.executor": "Run",
-    "Application.MyClassMates.executor": "Run",
-    "Application.Palindrome.executor": "Run",
-    "Application.RemoveDuplicates.executor": "Run",
-    "Application.Shape.executor": "Run",
-    "Application.Shape2.executor": "Run",
-    "Application.StringMethods.executor": "Run",
-    "Application.StringPractice1.executor": "Run",
-    "Application.StringPractice2.executor": "Run",
-    "Application.StringPractice3.executor": "Run",
-    "Application.StringReverse.executor": "Run",
-    "Application.SumOf10Numbers.executor": "Run",
-    "Application.UniqueCharacters.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArraysIntro.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AverageNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Days.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FINRA.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FactorialNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ForLoopIntro.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ForLoopPractice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ForLoopPractice2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ForLoopPractice3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FrequencyOfWord.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FrequencyOfWord2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HighestAndLowestScores.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaximumNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinimumNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyClassMates.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveDuplicates.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Shape.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Shape2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringMethods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringPractice1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringPractice2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringPractice3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringReverse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOf10Numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UniqueCharacters.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.AverageNumber">
     <configuration name="AverageNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day23_arrays.AverageNumber" />
@@ -297,7 +296,8 @@
       <workItem from="1708104800381" duration="267000" />
       <workItem from="1708192830108" duration="6224000" />
       <workItem from="1708320848226" duration="117000" />
-      <workItem from="1708389130399" duration="4363000" />
+      <workItem from="1708389130399" duration="4765000" />
+      <workItem from="1708587358061" duration="65000" />
     </task>
     <servers />
   </component>

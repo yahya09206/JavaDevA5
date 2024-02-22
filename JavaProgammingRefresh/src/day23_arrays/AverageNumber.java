@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class AverageNumber {
     public static void main(String[] args) {
 
+        // Declare scanner
         Scanner scanner = new Scanner(System.in);
         System.out.println("How many numbers do you want to enter");
         // assign size of array to be what the user enters
