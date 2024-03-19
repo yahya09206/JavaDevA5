@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day23_arrays/AverageNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day23_arrays/AverageNumber.java" afterDir="false" />
-    </list>
+    <list default="true" id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -297,7 +294,7 @@
       <workItem from="1708192830108" duration="6224000" />
       <workItem from="1708320848226" duration="117000" />
       <workItem from="1708389130399" duration="4765000" />
-      <workItem from="1708587358061" duration="65000" />
+      <workItem from="1708587358061" duration="272000" />
     </task>
     <servers />
   </component>
