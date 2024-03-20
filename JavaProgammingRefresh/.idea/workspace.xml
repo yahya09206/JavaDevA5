@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/PracticeIt/Chapter1/WellFormed.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/PracticeIt/Chapter1/WellFormed.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,6 +122,7 @@
     "Application.ArraysIntro.executor": "Run",
     "Application.AverageNumber.executor": "Run",
     "Application.Days.executor": "Run",
+    "Application.Difference.executor": "Run",
     "Application.FINRA.executor": "Run",
     "Application.FactorialNumber.executor": "Run",
     "Application.ForLoopIntro.executor": "Run",
@@ -159,7 +161,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.WellFormed">
+  <component name="RunManager" selected="Application.Difference">
     <configuration name="AverageNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day23_arrays.AverageNumber" />
       <module name="JavaProgammingRefresh" />
@@ -173,12 +175,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HighestAndLowestScores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day23_arrays.HighestAndLowestScores" />
+    <configuration name="Difference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter1.Difference" />
       <module name="JavaProgammingRefresh" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day23_arrays.*" />
+          <option name="PATTERN" value="PracticeIt.Chapter1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -227,11 +229,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Difference" />
         <item itemvalue="Application.WellFormed" />
         <item itemvalue="Application.Spikey" />
         <item itemvalue="Application.Stewie" />
         <item itemvalue="Application.AverageNumber" />
-        <item itemvalue="Application.HighestAndLowestScores" />
       </list>
     </recent_temporary>
   </component>
@@ -301,7 +303,7 @@
       <workItem from="1708389130399" duration="4765000" />
       <workItem from="1708587358061" duration="272000" />
       <workItem from="1710874167137" duration="555000" />
-      <workItem from="1710949123512" duration="1819000" />
+      <workItem from="1710949123512" duration="2103000" />
     </task>
     <servers />
   </component>
