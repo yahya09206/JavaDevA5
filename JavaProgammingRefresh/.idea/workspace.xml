@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/PracticeIt/Chapter1/WellFormed.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/PracticeIt/Chapter1/WellFormed.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/PracticeIt/Chapter1/Difference.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/PracticeIt/Chapter1/Difference.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,6 +134,7 @@
     "Application.HighestAndLowestScores.executor": "Run",
     "Application.MaximumNumber.executor": "Run",
     "Application.MinimumNumber.executor": "Run",
+    "Application.MuchBetter.executor": "Run",
     "Application.MyClassMates.executor": "Run",
     "Application.Palindrome.executor": "Run",
     "Application.RemoveDuplicates.executor": "Run",
@@ -161,13 +162,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Difference">
-    <configuration name="AverageNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day23_arrays.AverageNumber" />
+  <component name="RunManager" selected="Application.MuchBetter">
+    <configuration name="Difference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter1.Difference" />
       <module name="JavaProgammingRefresh" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day23_arrays.*" />
+          <option name="PATTERN" value="PracticeIt.Chapter1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,8 +176,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Difference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter1.Difference" />
+    <configuration name="MuchBetter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter1.MuchBetter" />
       <module name="JavaProgammingRefresh" />
       <extension name="coverage">
         <pattern>
@@ -229,11 +230,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MuchBetter" />
         <item itemvalue="Application.Difference" />
         <item itemvalue="Application.WellFormed" />
         <item itemvalue="Application.Spikey" />
         <item itemvalue="Application.Stewie" />
-        <item itemvalue="Application.AverageNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -303,7 +304,7 @@
       <workItem from="1708389130399" duration="4765000" />
       <workItem from="1708587358061" duration="272000" />
       <workItem from="1710874167137" duration="555000" />
-      <workItem from="1710949123512" duration="2103000" />
+      <workItem from="1710949123512" duration="2877000" />
     </task>
     <servers />
   </component>
