@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/PracticeIt/Chapter1/Stewie2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/PracticeIt/Chapter1/Stewie2.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,6 +123,7 @@
     "Application.AverageNumber.executor": "Run",
     "Application.Days.executor": "Run",
     "Application.Difference.executor": "Run",
+    "Application.Egg.executor": "Run",
     "Application.FINRA.executor": "Run",
     "Application.FactorialNumber.executor": "Run",
     "Application.ForLoopIntro.executor": "Run",
@@ -164,9 +166,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Stewie2">
-    <configuration name="Difference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter1.Difference" />
+  <component name="RunManager" selected="Application.Egg">
+    <configuration name="Egg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter1.Egg" />
       <module name="JavaProgammingRefresh" />
       <extension name="coverage">
         <pattern>
@@ -232,11 +234,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Egg" />
         <item itemvalue="Application.Stewie2" />
         <item itemvalue="Application.Mantra" />
         <item itemvalue="Application.Meta" />
         <item itemvalue="Application.MuchBetter" />
-        <item itemvalue="Application.Difference" />
       </list>
     </recent_temporary>
   </component>
@@ -306,7 +308,7 @@
       <workItem from="1708389130399" duration="4765000" />
       <workItem from="1708587358061" duration="272000" />
       <workItem from="1710874167137" duration="555000" />
-      <workItem from="1710949123512" duration="3867000" />
+      <workItem from="1710949123512" duration="5235000" />
     </task>
     <servers />
   </component>
