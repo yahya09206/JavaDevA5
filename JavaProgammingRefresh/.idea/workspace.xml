@@ -124,6 +124,7 @@
     "Application.Difference.executor": "Run",
     "Application.Egg.executor": "Run",
     "Application.Egg2.executor": "Run",
+    "Application.EggStop.executor": "Run",
     "Application.FINRA.executor": "Run",
     "Application.FactorialNumber.executor": "Run",
     "Application.FightSong.executor": "Run",
@@ -134,6 +135,7 @@
     "Application.FrequencyOfWord.executor": "Run",
     "Application.FrequencyOfWord2.executor": "Run",
     "Application.HighestAndLowestScores.executor": "Run",
+    "Application.Lanterns.executor": "Run",
     "Application.Mantra.executor": "Run",
     "Application.MaximumNumber.executor": "Run",
     "Application.Meta.executor": "Run",
@@ -169,9 +171,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lanterns">
-    <configuration name="Egg2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter1.Egg2" />
+  <component name="RunManager" selected="Application.EggStop">
+    <configuration name="EggStop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter1.EggStop" />
       <module name="JavaProgammingRefresh" />
       <extension name="coverage">
         <pattern>
@@ -237,11 +239,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EggStop" />
         <item itemvalue="Application.Lanterns" />
         <item itemvalue="Application.StarFigures" />
         <item itemvalue="Application.FightSong" />
         <item itemvalue="Application.TwoRockets" />
-        <item itemvalue="Application.Egg2" />
       </list>
     </recent_temporary>
   </component>
@@ -312,7 +314,7 @@
       <workItem from="1708587358061" duration="272000" />
       <workItem from="1710874167137" duration="555000" />
       <workItem from="1710949123512" duration="5728000" />
-      <workItem from="1711034987031" duration="2358000" />
+      <workItem from="1711034987031" duration="3117000" />
     </task>
     <servers />
   </component>
