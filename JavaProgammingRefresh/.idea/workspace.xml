@@ -152,6 +152,7 @@
     "Application.StringPractice3.executor": "Run",
     "Application.StringReverse.executor": "Run",
     "Application.SumOf10Numbers.executor": "Run",
+    "Application.TwoRockets.executor": "Run",
     "Application.UniqueCharacters.executor": "Run",
     "Application.WellFormed.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -166,7 +167,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Egg2">
+  <component name="RunManager" selected="Application.TwoRockets">
     <configuration name="Egg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter1.Egg" />
       <module name="JavaProgammingRefresh" />
@@ -206,19 +207,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Meta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter1.Meta" />
-      <module name="JavaProgammingRefresh" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PracticeIt.Chapter1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Stewie2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter1.Stewie2" />
       <module name="JavaProgammingRefresh" />
@@ -232,13 +220,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TwoRockets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter1.TwoRockets" />
+      <module name="JavaProgammingRefresh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PracticeIt.Chapter1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TwoRockets" />
         <item itemvalue="Application.Egg2" />
         <item itemvalue="Application.Egg" />
         <item itemvalue="Application.Stewie2" />
         <item itemvalue="Application.Mantra" />
-        <item itemvalue="Application.Meta" />
       </list>
     </recent_temporary>
   </component>
@@ -308,7 +309,8 @@
       <workItem from="1708389130399" duration="4765000" />
       <workItem from="1708587358061" duration="272000" />
       <workItem from="1710874167137" duration="555000" />
-      <workItem from="1710949123512" duration="5617000" />
+      <workItem from="1710949123512" duration="5728000" />
+      <workItem from="1711034987031" duration="1126000" />
     </task>
     <servers />
   </component>
