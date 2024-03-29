@@ -144,6 +144,7 @@
     "Application.MyClassMates.executor": "Run",
     "Application.NumberTriangle.executor": "Run",
     "Application.NumbersOutput60.executor": "Run",
+    "Application.NumbersOutputConstant.executor": "Run",
     "Application.Palindrome.executor": "Run",
     "Application.RemoveDuplicates.executor": "Run",
     "Application.Shape.executor": "Run",
@@ -178,7 +179,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.NumbersOutput60">
+  <component name="RunManager" selected="Application.NumbersOutputConstant">
     <configuration name="NumberTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter2.NumberTriangle" />
       <module name="JavaProgammingRefresh" />
@@ -205,8 +206,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpacedNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter2.SpacedNumbers" />
+    <configuration name="NumbersOutputConstant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter2.NumbersOutputConstant" />
       <module name="JavaProgammingRefresh" />
       <extension name="coverage">
         <pattern>
@@ -218,8 +219,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpacesAndNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter2.SpacesAndNumbers" />
+    <configuration name="SpacedNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter2.SpacedNumbers" />
       <module name="JavaProgammingRefresh" />
       <extension name="coverage">
         <pattern>
@@ -246,11 +247,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumbersOutputConstant" />
         <item itemvalue="Application.NumbersOutput60" />
         <item itemvalue="Application.WaveNumbers40" />
         <item itemvalue="Application.NumberTriangle" />
         <item itemvalue="Application.SpacedNumbers" />
-        <item itemvalue="Application.SpacesAndNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -325,7 +326,7 @@
       <workItem from="1711652292782" duration="1235000" />
       <workItem from="1711656987031" duration="962000" />
       <workItem from="1711659249683" duration="588000" />
-      <workItem from="1711726859502" duration="5565000" />
+      <workItem from="1711726859502" duration="6170000" />
     </task>
     <servers />
   </component>
