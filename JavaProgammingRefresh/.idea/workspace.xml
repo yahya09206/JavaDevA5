@@ -147,6 +147,7 @@
     "Application.RemoveDuplicates.executor": "Run",
     "Application.Shape.executor": "Run",
     "Application.Shape2.executor": "Run",
+    "Application.SpacedNumbers.executor": "Run",
     "Application.Spikey.executor": "Run",
     "Application.StarFigures.executor": "Run",
     "Application.StarSquare.executor": "Run",
@@ -174,7 +175,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.NumberTriangle">
+  <component name="RunManager" selected="Application.SpacedNumbers">
     <configuration name="EggStop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter1.EggStop" />
       <module name="JavaProgammingRefresh" />
@@ -188,12 +189,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lanterns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter1.Lanterns" />
+    <configuration name="NumberTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter2.NumberTriangle" />
       <module name="JavaProgammingRefresh" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PracticeIt.Chapter1.*" />
+          <option name="PATTERN" value="PracticeIt.Chapter2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -201,8 +202,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter2.NumberTriangle" />
+    <configuration name="SpacedNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter2.SpacedNumbers" />
       <module name="JavaProgammingRefresh" />
       <extension name="coverage">
         <pattern>
@@ -242,11 +243,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SpacedNumbers" />
         <item itemvalue="Application.NumberTriangle" />
         <item itemvalue="Application.StarTriangle" />
         <item itemvalue="Application.StarSquare" />
         <item itemvalue="Application.EggStop" />
-        <item itemvalue="Application.Lanterns" />
       </list>
     </recent_temporary>
   </component>
@@ -321,7 +322,7 @@
       <workItem from="1711652292782" duration="1235000" />
       <workItem from="1711656987031" duration="962000" />
       <workItem from="1711659249683" duration="588000" />
-      <workItem from="1711726859502" duration="932000" />
+      <workItem from="1711726859502" duration="1924000" />
     </task>
     <servers />
   </component>
