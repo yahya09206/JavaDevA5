@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/PracticeIt/Chapter2/StarSquare.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/PracticeIt/Chapter2/StarSquare.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,6 +142,7 @@
     "Application.MinimumNumber.executor": "Run",
     "Application.MuchBetter.executor": "Run",
     "Application.MyClassMates.executor": "Run",
+    "Application.NumberTriangle.executor": "Run",
     "Application.Palindrome.executor": "Run",
     "Application.RemoveDuplicates.executor": "Run",
     "Application.Shape.executor": "Run",
@@ -174,7 +174,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.StarTriangle">
+  <component name="RunManager" selected="Application.NumberTriangle">
     <configuration name="EggStop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter1.EggStop" />
       <module name="JavaProgammingRefresh" />
@@ -201,12 +201,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StarFigures" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter1.StarFigures" />
+    <configuration name="NumberTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter2.NumberTriangle" />
       <module name="JavaProgammingRefresh" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PracticeIt.Chapter1.*" />
+          <option name="PATTERN" value="PracticeIt.Chapter2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -242,11 +242,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumberTriangle" />
         <item itemvalue="Application.StarTriangle" />
         <item itemvalue="Application.StarSquare" />
         <item itemvalue="Application.EggStop" />
         <item itemvalue="Application.Lanterns" />
-        <item itemvalue="Application.StarFigures" />
       </list>
     </recent_temporary>
   </component>
@@ -321,7 +321,7 @@
       <workItem from="1711652292782" duration="1235000" />
       <workItem from="1711656987031" duration="962000" />
       <workItem from="1711659249683" duration="588000" />
-      <workItem from="1711726859502" duration="779000" />
+      <workItem from="1711726859502" duration="932000" />
     </task>
     <servers />
   </component>
