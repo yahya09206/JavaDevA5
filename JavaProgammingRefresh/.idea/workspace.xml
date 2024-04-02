@@ -122,6 +122,7 @@
     "Application.AverageNumber.executor": "Run",
     "Application.Days.executor": "Run",
     "Application.Difference.executor": "Run",
+    "Application.DollarFigure.executor": "Run",
     "Application.Egg.executor": "Run",
     "Application.Egg2.executor": "Run",
     "Application.EggStop.executor": "Run",
@@ -185,9 +186,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.StarFigure">
-    <configuration name="NestedNumbers2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter2.NestedNumbers2" />
+  <component name="RunManager" selected="Application.DollarFigure">
+    <configuration name="DollarFigure" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter2.DollarFigure" />
       <module name="JavaProgammingRefresh" />
       <extension name="coverage">
         <pattern>
@@ -253,11 +254,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DollarFigure" />
         <item itemvalue="Application.StarFigure" />
         <item itemvalue="Application.SlashFigure" />
         <item itemvalue="Application.PrintDesign" />
         <item itemvalue="Application.NestedNumbers3" />
-        <item itemvalue="Application.NestedNumbers2" />
       </list>
     </recent_temporary>
   </component>
@@ -333,7 +334,7 @@
       <workItem from="1711656987031" duration="962000" />
       <workItem from="1711659249683" duration="588000" />
       <workItem from="1711726859502" duration="6471000" />
-      <workItem from="1712087556912" duration="4016000" />
+      <workItem from="1712087556912" duration="4638000" />
     </task>
     <servers />
   </component>
