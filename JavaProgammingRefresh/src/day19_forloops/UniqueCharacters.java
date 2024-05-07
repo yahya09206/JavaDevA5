@@ -3,18 +3,17 @@ package day19_forloops;
 public class UniqueCharacters {
     public static void main(String[] args) {
 
-        String word = "aadddwddffffbcc";
-        // Store unique character inside result
+        String uniqueChars = "ababababbaewlbbaa";
         String result = "";
 
-        for (int i = 0; i <= word.length() - 1; i++){
-            // split into chars
-            char ch = word.charAt(i);
-            // check if boolean will return true or false based on the first occurrence and its last occurrence
-            boolean isUnique = word.indexOf(ch) == word.lastIndexOf(ch);
-            // check if char only appears one time
+        // use firstIndexOf() and lastIndexOf() methods
+        for (int i = 0; i <= uniqueChars.length() - 1; i++){
+            // get the starting and ending points of index by using boolean
+            char ch = uniqueChars.charAt(i); // get character at each index
+            boolean isUnique = uniqueChars.indexOf(ch) == uniqueChars.lastIndexOf(ch);
+
             if (isUnique){
-                // add unique char to result variable
+                // store unique characters into result variable
                 result += ch;
             }
         }

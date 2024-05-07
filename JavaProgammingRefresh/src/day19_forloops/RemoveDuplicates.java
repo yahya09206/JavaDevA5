@@ -17,7 +17,6 @@ public class RemoveDuplicates {
                 result += word.charAt(i);
             }
         }
-
         System.out.println(result);
     }
 }
