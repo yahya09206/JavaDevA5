@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Palindrome {
     public static void main(String[] args) {
 
+        System.out.println("Enter a word");
         String word = new Scanner(System.in).next();
         String reversedWord = "";
 
@@ -12,11 +13,13 @@ public class Palindrome {
             reversedWord += word.charAt(i);
         }
 
-        if (reversedWord.equals(word)){
+        // use boolean
+        boolean isPalindrome = word.equalsIgnoreCase(reversedWord);
+
+        if (isPalindrome){
             System.out.println("Word is a palindrome");
         } else {
             System.out.println("Word is not a palindrome");
         }
-
     }
 }
