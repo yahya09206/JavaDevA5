@@ -6,16 +6,17 @@ public class StringReverse {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Enter a name");
-        String name = scanner.next();
-        String reversedName = "";
+        // Declare empty string to store reversed version
+        String reversed = "";
+        System.out.println("Enter a word");
+        String word = scanner.next();
 
-        for (int i = name.length() - 1; i >= 0; i--){
-            char each = name.charAt(i);
-            reversedName += each;
+        // loop thru the word
+        for (int i = word.length() - 1; i >= 0; i--) {
+            // concat each letter of the word backwards into reversed variable
+            reversed += word.charAt(i);
         }
 
-        System.out.println(reversedName);
-
+        System.out.println(reversed);
     }
 }
