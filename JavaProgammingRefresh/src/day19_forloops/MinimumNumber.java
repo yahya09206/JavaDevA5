@@ -6,21 +6,17 @@ public class MinimumNumber {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
-        // min number allowed in java
-        int max = -214748364;
+        int min = 2147483647;
 
-        // ask user for a number 5 times
         for (int i = 0; i < 5; i++){
-            System.out.println("Enter a number");
-            // store number in a variable
+            System.out.println("Enter a number:");
             int num = scanner.nextInt();
 
-            // check whether the user number is greater than the max number, if so then store it in the num variable
-            if (num > max){
-                max = num;
+            if (num < min){
+                min = num;
             }
         }
 
-        System.out.println(max);
+        System.out.println("Minimum number is " + min);
     }
 }
