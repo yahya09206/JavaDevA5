@@ -5,12 +5,12 @@ import java.util.Scanner;
 public class FactorialNumber {
     public static void main(String[] args) {
 
+        System.out.println("Please enter a number");
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Enter a number: ");
-        int number = scanner.nextInt();
-        int result = 1; // assign 1 because you can't multiply by 0
+        int num = scanner.nextInt();
+        int result = 1;
 
-        for (int i = number; i >= 1; i--){
+        for (int i = num; i >= 1; i--){
             result *= i;
         }
 

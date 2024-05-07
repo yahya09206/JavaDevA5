@@ -6,10 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/day19_forloops/RemoveDuplicates.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/day19_forloops/RemoveDuplicates.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/day19_forloops/UniqueCharacters.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/day19_forloops/UniqueCharacters.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day19_forloops/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day19_forloops/RemoveDuplicates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day19_forloops/UniqueCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day19_forloops/UniqueCharacters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/day20_forloops/FactorialNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/day20_forloops/FactorialNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/day20_forloops/FrequencyOfWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/day20_forloops/FrequencyOfWord.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/day20_forloops/FrequencyOfWord2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/day20_forloops/FrequencyOfWord2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day20_forloops/FactorialNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day20_forloops/FactorialNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day20_forloops/FrequencyOfWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day20_forloops/FrequencyOfWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day20_forloops/FrequencyOfWord2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day20_forloops/FrequencyOfWord2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,13 +192,26 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.UniqueCharacters">
-    <configuration name="MinimumNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day19_forloops.MinimumNumber" />
+  <component name="RunManager" selected="Application.FactorialNumber">
+    <configuration name="FactorialNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day20_forloops.FactorialNumber" />
       <module name="JavaProgammingRefresh" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day19_forloops.*" />
+          <option name="PATTERN" value="day20_forloops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FrequencyOfWord2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day20_forloops.FrequencyOfWord2" />
+      <module name="JavaProgammingRefresh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day20_forloops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -230,19 +245,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day19_forloops.StringReverse" />
-      <module name="JavaProgammingRefresh" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day19_forloops.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="UniqueCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day19_forloops.UniqueCharacters" />
       <module name="JavaProgammingRefresh" />
@@ -258,11 +260,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FactorialNumber" />
+        <item itemvalue="Application.FrequencyOfWord2" />
         <item itemvalue="Application.UniqueCharacters" />
         <item itemvalue="Application.RemoveDuplicates" />
         <item itemvalue="Application.Palindrome" />
-        <item itemvalue="Application.StringReverse" />
-        <item itemvalue="Application.MinimumNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -340,7 +342,7 @@
       <workItem from="1711726859502" duration="6471000" />
       <workItem from="1712087556912" duration="4862000" />
       <workItem from="1712339216825" duration="18000" />
-      <workItem from="1715111645179" duration="2505000" />
+      <workItem from="1715111645179" duration="3440000" />
     </task>
     <servers />
   </component>
