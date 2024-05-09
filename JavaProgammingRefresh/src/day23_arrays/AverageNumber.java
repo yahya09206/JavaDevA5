@@ -13,17 +13,14 @@ public class AverageNumber {
         // variable to count
         int sum = 0;
 
+        // loop through numbers that were entered by user
         for (int i = 0; i <= nums.length - 1; i++){
-            // Prompt user for input
             System.out.println("Enter a number");
-            // go through index for each number
             nums[i] = scanner.nextInt();
-            // add numbers to sum variable
             sum += nums[i];
         }
 
         System.out.println("sum = " + sum);
-        // find average by dividing sum by length of array
         double average = (double) sum / nums.length;
         System.out.println("average = " + average);
     }
