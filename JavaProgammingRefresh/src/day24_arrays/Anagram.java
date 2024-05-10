@@ -7,15 +7,17 @@ public class Anagram {
     public static void main(String[] args) {
 
         String word1 = "heart";
-        String word2 = "earth";
+        String word2 = "whoa";
 
-        char[] str1 = word1.toCharArray();
-        char[] str2 = word2.toCharArray();
+        // split letters and then sort
+        char[] split1 = word1.toCharArray();
+        char[] split2 = word2.toCharArray();
 
-        Arrays.sort(str1);
-        Arrays.sort(str2);
+        Arrays.sort(split1);
+        Arrays.sort(split2);
 
-        boolean isAnagram = Arrays.equals(str1, str2);
+        // verify with boolean
+        boolean isAnagram = Arrays.equals(split1, split2);
 
         System.out.println("isAnagram = " + isAnagram);
     }

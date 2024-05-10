@@ -6,11 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day23_arrays/ArraysIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day23_arrays/ArraysIntro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day23_arrays/AverageNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day23_arrays/AverageNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day23_arrays/Days.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day23_arrays/Days.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day23_arrays/MaximumNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day23_arrays/MaximumNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day23_arrays/Months.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day23_arrays/Months.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/day24_arrays/FrequencyOfElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/day24_arrays/FrequencyOfElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day24_arrays/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day24_arrays/Anagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day24_arrays/FrequencyOfElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day24_arrays/FrequencyOfElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day24_arrays/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day24_arrays/ReverseArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day24_arrays/StringMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day24_arrays/StringMethods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,6 +123,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Anagram.executor": "Run",
     "Application.ArraysIntro.executor": "Run",
     "Application.AverageNumber.executor": "Run",
     "Application.Days.executor": "Run",
@@ -138,6 +139,7 @@
     "Application.ForLoopPractice.executor": "Run",
     "Application.ForLoopPractice2.executor": "Run",
     "Application.ForLoopPractice3.executor": "Run",
+    "Application.FrequencyOfElements.executor": "Run",
     "Application.FrequencyOfWord.executor": "Run",
     "Application.FrequencyOfWord2.executor": "Run",
     "Application.HighestAndLowestScores.executor": "Run",
@@ -158,6 +160,7 @@
     "Application.Palindrome.executor": "Run",
     "Application.PrintDesign.executor": "Run",
     "Application.RemoveDuplicates.executor": "Run",
+    "Application.ReverseArray.executor": "Run",
     "Application.Shape.executor": "Run",
     "Application.Shape2.executor": "Run",
     "Application.SlashFigure.executor": "Run",
@@ -192,13 +195,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.AverageNumber">
-    <configuration name="ArraysIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day23_arrays.ArraysIntro" />
+  <component name="RunManager" selected="Application.Anagram">
+    <configuration name="Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day24_arrays.Anagram" />
       <module name="JavaProgammingRefresh" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day23_arrays.*" />
+          <option name="PATTERN" value="day24_arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -219,12 +222,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Days" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day23_arrays.Days" />
+    <configuration name="FrequencyOfElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day24_arrays.FrequencyOfElements" />
       <module name="JavaProgammingRefresh" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day23_arrays.*" />
+          <option name="PATTERN" value="day24_arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -232,12 +235,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day23_arrays.MaximumNumber" />
+    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day24_arrays.ReverseArray" />
       <module name="JavaProgammingRefresh" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day23_arrays.*" />
+          <option name="PATTERN" value="day24_arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -245,12 +248,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Months" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day23_arrays.Months" />
+    <configuration name="StringMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day24_arrays.StringMethods" />
       <module name="JavaProgammingRefresh" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day23_arrays.*" />
+          <option name="PATTERN" value="day24_arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -260,11 +263,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Anagram" />
+        <item itemvalue="Application.StringMethods" />
+        <item itemvalue="Application.ReverseArray" />
+        <item itemvalue="Application.FrequencyOfElements" />
         <item itemvalue="Application.AverageNumber" />
-        <item itemvalue="Application.MaximumNumber" />
-        <item itemvalue="Application.Days" />
-        <item itemvalue="Application.Months" />
-        <item itemvalue="Application.ArraysIntro" />
       </list>
     </recent_temporary>
   </component>
@@ -345,7 +348,7 @@
       <workItem from="1715111645179" duration="4864000" />
       <workItem from="1715195246306" duration="11000" />
       <workItem from="1715198030964" duration="14000" />
-      <workItem from="1715289150413" duration="2174000" />
+      <workItem from="1715289150413" duration="4187000" />
     </task>
     <servers />
   </component>
