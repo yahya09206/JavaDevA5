@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day25_arrays/Merge2Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day25_arrays/Merge2Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day25_arrays/ForeachLoopPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day25_arrays/ForeachLoopPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day25_arrays/Merge3Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day25_arrays/Merge3Arrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,6 +136,7 @@
     "Application.ForLoopPractice.executor": "Run",
     "Application.ForLoopPractice2.executor": "Run",
     "Application.ForLoopPractice3.executor": "Run",
+    "Application.ForeachLoopPractice.executor": "Run",
     "Application.FrequencyOfElements.executor": "Run",
     "Application.FrequencyOfWord.executor": "Run",
     "Application.FrequencyOfWord2.executor": "Run",
@@ -143,6 +145,7 @@
     "Application.Mantra.executor": "Run",
     "Application.MaximumNumber.executor": "Run",
     "Application.Merge2Arrays.executor": "Run",
+    "Application.Merge3Arrays.executor": "Run",
     "Application.Meta.executor": "Run",
     "Application.MinimumNumber.executor": "Run",
     "Application.Months.executor": "Run",
@@ -193,13 +196,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Merge2Arrays">
-    <configuration name="Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day24_arrays.Anagram" />
+  <component name="RunManager" selected="Application.UniqueElements2">
+    <configuration name="ForeachLoopPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day25_arrays.ForeachLoopPractice" />
       <module name="JavaProgammingRefresh" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day24_arrays.*" />
+          <option name="PATTERN" value="day25_arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -220,12 +223,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day24_arrays.ReverseArray" />
+    <configuration name="Merge3Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day25_arrays.Merge3Arrays" />
       <module name="JavaProgammingRefresh" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day24_arrays.*" />
+          <option name="PATTERN" value="day25_arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -246,12 +249,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day24_arrays.StringMethods" />
+    <configuration name="UniqueElements2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day25_arrays.UniqueElements2" />
       <module name="JavaProgammingRefresh" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day24_arrays.*" />
+          <option name="PATTERN" value="day25_arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -261,11 +264,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UniqueElements2" />
+        <item itemvalue="Application.ForeachLoopPractice" />
+        <item itemvalue="Application.Merge3Arrays" />
         <item itemvalue="Application.Merge2Arrays" />
         <item itemvalue="Application.ReverseElements" />
-        <item itemvalue="Application.Anagram" />
-        <item itemvalue="Application.StringMethods" />
-        <item itemvalue="Application.ReverseArray" />
       </list>
     </recent_temporary>
   </component>
@@ -348,7 +351,7 @@
       <workItem from="1715198030964" duration="14000" />
       <workItem from="1715289150413" duration="4376000" />
       <workItem from="1715356666757" duration="58000" />
-      <workItem from="1715449582435" duration="1271000" />
+      <workItem from="1715449582435" duration="2373000" />
     </task>
     <servers />
   </component>
