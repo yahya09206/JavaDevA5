@@ -20,4 +20,8 @@ public class Dog {
     public void bark(){
         System.out.println(name + " is barking");
     }
+
+    public void play(){
+        System.out.println(name + " is playing");
+    }
 }
