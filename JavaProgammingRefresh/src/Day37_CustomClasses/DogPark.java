@@ -18,5 +18,7 @@ public class DogPark {
         System.out.println(dog1.age);
         System.out.println(dog1.size);
         System.out.println(dog1.color);
+
+
     }
 }

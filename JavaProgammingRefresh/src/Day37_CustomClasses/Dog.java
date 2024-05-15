@@ -24,4 +24,14 @@ public class Dog {
     public void play(){
         System.out.println(name + " is playing");
     }
+
+    public void setInfo(String dogName, String dogBreed, String dogGender, String dogColor, String dogSize, int dogAge){
+
+        dogName = name;
+        dogBreed = breed;
+        dogGender = gender;
+        dogColor = color;
+        dogSize = size;
+        dogAge = age;
+    }
 }
