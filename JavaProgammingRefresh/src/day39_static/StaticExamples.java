@@ -1,32 +1,42 @@
 package day39_static;
 
-public class StaticExamples {
-    public static void main(String[] args) {
+class SchoolStudent {
 
-        CybertekStudent student1 = new CybertekStudent();
-        CybertekStudent student2 = new CybertekStudent();
-        CybertekStudent student3 = new CybertekStudent();
-        CybertekStudent student4 = new CybertekStudent();
-        //student1.schoolName = "Cybertek School";
+    public String name;
+    public String gender;
+    public int age;
+    public long idNumber;
 
-        System.out.println(student1.schoolName);
-        System.out.println(student2.schoolName);
-        System.out.println(student3.schoolName);
-        System.out.println(student4.schoolName);
+    public static String schoolName = "John Williams";
+    public static String programmingLanguage = "Java";
 
-        System.out.println(student1.programmingLanguage);
-        System.out.println(student2.programmingLanguage);
-        System.out.println(student3.programmingLanguage);
-        System.out.println(student4.programmingLanguage);
-
-
+    public void printName(){
+        System.out.println(name);
     }
 }
 
-class CybertekStudent {
+public class StaticExamples {
 
-    public String name, gender;
-    public int age, ID;
-    public static String schoolName = "Cybertek School";
-    public static String programmingLanguage = "Java";
+    public static void main(String[] args) {
+
+        SchoolStudent schoolStudent = new SchoolStudent();
+        schoolStudent.schoolName = "John Williams";
+
+        System.out.println("schoolStudent.name = " + schoolStudent.schoolName);
+
+        SchoolStudent schoolStudent2 = new SchoolStudent();
+        SchoolStudent schoolStudent3 = new SchoolStudent();
+        SchoolStudent schoolStudent4 = new SchoolStudent();
+        SchoolStudent schoolStudent5 = new SchoolStudent();
+
+        System.out.println("schoolStudent2.schoolName = " + schoolStudent2.schoolName);
+        System.out.println("schoolStudent3.programmingLanguage = " + schoolStudent3.programmingLanguage);
+
+        System.out.println("----------------------------------------------------");
+        System.out.println(SchoolStudent.schoolName);
+        System.out.println(SchoolStudent.programmingLanguage);
+
+        System.out.println(schoolStudent.age);
+
+    }
 }

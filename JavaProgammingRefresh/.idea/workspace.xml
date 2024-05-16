@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day37_CustomClasses/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day37_CustomClasses/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day39_static/StaticExamples.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,6 +177,7 @@
     "Application.StarFigures.executor": "Run",
     "Application.StarSquare.executor": "Run",
     "Application.StarTriangle.executor": "Run",
+    "Application.StaticExamples.executor": "Run",
     "Application.Stewie.executor": "Run",
     "Application.Stewie2.executor": "Run",
     "Application.StringMethods.executor": "Run",
@@ -203,7 +204,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DogPark">
+  <component name="RunManager" selected="Application.StaticExamples">
     <configuration name="DogPark" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day37_CustomClasses.DogPark" />
       <module name="JavaProgammingRefresh" />
@@ -256,12 +257,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Warmup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day36_ArrayList.Warmup" />
+    <configuration name="StaticExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day39_static.StaticExamples" />
       <module name="JavaProgammingRefresh" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day36_ArrayList.*" />
+          <option name="PATTERN" value="day39_static.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -271,11 +272,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StaticExamples" />
         <item itemvalue="Application.DogPark" />
         <item itemvalue="Application.ReturnMethods2" />
         <item itemvalue="Application.ReturnMethod" />
         <item itemvalue="Application.RemoveIfMethod" />
-        <item itemvalue="Application.Warmup" />
       </list>
     </recent_temporary>
   </component>
@@ -366,7 +367,9 @@
       <workItem from="1715700034003" duration="87000" />
       <workItem from="1715723088867" duration="1410000" />
       <workItem from="1715791019711" duration="24000" />
-      <workItem from="1715815129398" duration="655000" />
+      <workItem from="1715815129398" duration="791000" />
+      <workItem from="1715877172392" duration="33000" />
+      <workItem from="1715890486119" duration="1590000" />
     </task>
     <servers />
   </component>
