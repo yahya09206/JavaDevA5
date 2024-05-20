@@ -2,20 +2,10 @@ package day40_statics;
 
 public class Address {
 
-    public String buildingNumber, street, city, state;
-    public int zipCode;
-    public static String country = "United States";
-
-    public void setInfo(String buildingNumber, String street, String city, String state, int zipCode) {
-        this.buildingNumber = buildingNumber;
-        this.street = street;
-        this.city = city;
-        this.state = state;
-        this.zipCode = zipCode;
-    }
-
-    @Override
-    public String toString() {
-        return buildingNumber + " " + street + "\n" + city + " " + state + ", " + zipCode;
-    }
+    public String buildingNumber;
+    public String streetNumber;
+    public String cityName;
+    public String stateName;
+    public String zipCode;
+    public static String countryName;
 }
