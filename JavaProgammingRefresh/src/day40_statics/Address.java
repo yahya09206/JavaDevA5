@@ -49,14 +49,6 @@ public class Address {
         this.zipCode = zipCode;
     }
 
-    public static String getCountryName() {
-        return countryName;
-    }
-
-    public static void setCountryName(String countryName) {
-        Address.countryName = countryName;
-    }
-
     @Override
     public String toString() {
         return "Address{" +
