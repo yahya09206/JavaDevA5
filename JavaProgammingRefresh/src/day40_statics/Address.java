@@ -7,7 +7,7 @@ public class Address {
     public String cityName;
     public String stateName;
     public String zipCode;
-    public static String countryName;
+    public static String countryName = "USA";
 
     public String getBuildingNumber() {
         return buildingNumber;
