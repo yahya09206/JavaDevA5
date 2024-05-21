@@ -9,13 +9,12 @@ public class Address {
     public String zipCode;
     public static String countryName = "USA";
 
-    public void setInfo(String buildingNumber, String streetNumber, String cityName, String stateName, String zipCode){
-
-        buildingNumber = buildingNumber;
-        streetNumber = streetNumber;
-        cityName = cityName;
-        stateName = stateName;
-        zipCode = zipCode;
+    public Address(String buildingNumber, String streetNumber, String cityName, String stateName, String zipCode) {
+        this.buildingNumber = buildingNumber;
+        this.streetNumber = streetNumber;
+        this.cityName = cityName;
+        this.stateName = stateName;
+        this.zipCode = zipCode;
     }
 
     @Override
