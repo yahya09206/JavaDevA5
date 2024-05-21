@@ -9,44 +9,13 @@ public class Address {
     public String zipCode;
     public static String countryName = "USA";
 
-    public String getBuildingNumber() {
-        return buildingNumber;
-    }
+    public void setInfo(String buildingNumber, String streetNumber, String cityName, String stateName, String zipCode){
 
-    public void setBuildingNumber(String buildingNumber) {
-        this.buildingNumber = buildingNumber;
-    }
-
-    public String getStreetNumber() {
-        return streetNumber;
-    }
-
-    public void setStreetNumber(String streetNumber) {
-        this.streetNumber = streetNumber;
-    }
-
-    public String getCityName() {
-        return cityName;
-    }
-
-    public void setCityName(String cityName) {
-        this.cityName = cityName;
-    }
-
-    public String getStateName() {
-        return stateName;
-    }
-
-    public void setStateName(String stateName) {
-        this.stateName = stateName;
-    }
-
-    public String getZipCode() {
-        return zipCode;
-    }
-
-    public void setZipCode(String zipCode) {
-        this.zipCode = zipCode;
+        buildingNumber = buildingNumber;
+        streetNumber = streetNumber;
+        cityName = cityName;
+        stateName = stateName;
+        zipCode = zipCode;
     }
 
     @Override
