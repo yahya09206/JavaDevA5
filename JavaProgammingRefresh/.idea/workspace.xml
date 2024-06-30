@@ -6,36 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/PracticeIt/Chapter1/Difference.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/PracticeIt/Chapter1/Difference.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/PracticeIt/Chapter1/Egg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/PracticeIt/Chapter1/Egg2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/PracticeIt/Chapter1/EggStop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/PracticeIt/Chapter1/FightSong.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/PracticeIt/Chapter1/Lanterns.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/PracticeIt/Chapter1/Mantra.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/PracticeIt/Chapter1/Meta.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/PracticeIt/Chapter1/MuchBetter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/PracticeIt/Chapter1/Shining.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/PracticeIt/Chapter1/StarFigures.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/PracticeIt/Chapter1/Stewie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/PracticeIt/Chapter1/Stewie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/PracticeIt/Chapter1/Stewie2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/PracticeIt/Chapter1/TwoRockets.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/PracticeIt/Chapter1/WellFormed.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/PracticeIt/Chapter1/WellFormed.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/PracticeIt/Chapter2/DollarFigure.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/PracticeIt/Chapter2/NestedNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/PracticeIt/Chapter2/NestedNumbers2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/PracticeIt/Chapter2/NestedNumbers3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/PracticeIt/Chapter2/NumberTriangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/PracticeIt/Chapter2/NumbersOutput60.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/PracticeIt/Chapter2/NumbersOutputConstant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/PracticeIt/Chapter2/PrintDesign.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/PracticeIt/Chapter2/SlashFigure.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/PracticeIt/Chapter2/SpacedNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/PracticeIt/Chapter2/SpacesAndNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/PracticeIt/Chapter2/StarFigure.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/PracticeIt/Chapter2/StarSquare.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/PracticeIt/Chapter2/StarTriangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/PracticeIt/Chapter2/WaveNumbers40.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/PracticeIt/Chapter1/MuchBetter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/PracticeIt/Chapter1/MuchBetter.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -237,7 +208,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MuchBetter">
+  <component name="RunManager" selected="Application.Mantra">
     <configuration name="Difference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter1.Difference" />
       <module name="JavaProgammingRefresh" />
@@ -251,34 +222,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Mantra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter1.Mantra" />
+      <module name="JavaProgammingRefresh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PracticeIt.Chapter1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Meta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter1.Meta" />
+      <module name="JavaProgammingRefresh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PracticeIt.Chapter1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MuchBetter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter1.MuchBetter" />
-      <module name="JavaProgammingRefresh" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PracticeIt.Chapter1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Spikey" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter1.Spikey" />
-      <module name="JavaProgammingRefresh" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PracticeIt.Chapter1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Stewie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter1.Stewie" />
       <module name="JavaProgammingRefresh" />
       <extension name="coverage">
         <pattern>
@@ -305,11 +276,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Mantra" />
+        <item itemvalue="Application.Meta" />
         <item itemvalue="Application.MuchBetter" />
         <item itemvalue="Application.Difference" />
         <item itemvalue="Application.WellFormed" />
-        <item itemvalue="Application.Spikey" />
-        <item itemvalue="Application.Stewie" />
       </list>
     </recent_temporary>
   </component>
@@ -408,7 +379,7 @@
       <workItem from="1716230393145" duration="1548000" />
       <workItem from="1716314808939" duration="165000" />
       <workItem from="1719604507538" duration="226000" />
-      <workItem from="1719775524056" duration="1173000" />
+      <workItem from="1719775524056" duration="1704000" />
     </task>
     <servers />
   </component>
