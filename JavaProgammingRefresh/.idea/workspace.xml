@@ -207,7 +207,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Egg2">
+  <component name="RunManager" selected="Application.TwoRockets">
     <configuration name="Egg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter1.Egg" />
       <module name="JavaProgammingRefresh" />
@@ -247,19 +247,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Meta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter1.Meta" />
-      <module name="JavaProgammingRefresh" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PracticeIt.Chapter1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Stewie2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter1.Stewie2" />
       <module name="JavaProgammingRefresh" />
@@ -273,13 +260,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TwoRockets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter1.TwoRockets" />
+      <module name="JavaProgammingRefresh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PracticeIt.Chapter1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TwoRockets" />
         <item itemvalue="Application.Egg2" />
         <item itemvalue="Application.Egg" />
         <item itemvalue="Application.Stewie2" />
         <item itemvalue="Application.Mantra" />
-        <item itemvalue="Application.Meta" />
       </list>
     </recent_temporary>
   </component>
@@ -378,7 +378,7 @@
       <workItem from="1716230393145" duration="1548000" />
       <workItem from="1716314808939" duration="165000" />
       <workItem from="1719604507538" duration="226000" />
-      <workItem from="1719775524056" duration="2470000" />
+      <workItem from="1719775524056" duration="2916000" />
     </task>
     <servers />
   </component>
