@@ -11,6 +11,7 @@ public class FarewellGoodBye {
         System.out.println();
         openingLine();
         System.out.println("see you later! \nI hope, you think, \nI'm a lover, not a hater!");
+        System.out.println(8 + 6 * -2 + 4 + "0" + (2 + 5));
     }
 
     public static void openingLine(){
