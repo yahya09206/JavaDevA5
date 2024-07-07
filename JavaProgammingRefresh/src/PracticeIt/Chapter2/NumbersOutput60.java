@@ -1,6 +1,10 @@
 package PracticeIt.Chapter2;
 
 public class NumbersOutput60 {
+    public static final int RANGE_OF_NUMBERS = 5;
+    public static final int NUMBER_OF_REPITITIONS = 7;
+
+
     public static void main(String[] args) {
 
         // repeat 6 times on same line
