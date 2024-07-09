@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="" />
+    <list default="true" id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -155,6 +157,7 @@
     "Application.NestedNumbers.executor": "Run",
     "Application.NestedNumbers2.executor": "Run",
     "Application.NestedNumbers3.executor": "Run",
+    "Application.NestedNumbersThree.executor": "Run",
     "Application.NestedNumbersTwo.executor": "Run",
     "Application.NumberTriangle.executor": "Run",
     "Application.NumbersOutput60.executor": "Run",
@@ -209,7 +212,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.NestedNumbersThree">
+  <component name="RunManager" selected="Application.PrintDesign">
     <configuration name="NestedNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter2.NestedNumbers" />
       <module name="JavaProgammingRefresh" />
@@ -262,8 +265,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WaveNumbers40" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter2.WaveNumbers40" />
+    <configuration name="PrintDesign" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter2.PrintDesign" />
       <module name="JavaProgammingRefresh" />
       <extension name="coverage">
         <pattern>
@@ -277,11 +280,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrintDesign" />
         <item itemvalue="Application.NestedNumbersThree" />
         <item itemvalue="Application.NestedNumbersTwo" />
         <item itemvalue="Application.NestedNumbers" />
         <item itemvalue="Application.NumbersOutput60" />
-        <item itemvalue="Application.WaveNumbers40" />
       </list>
     </recent_temporary>
   </component>
@@ -384,7 +387,7 @@
       <workItem from="1720128186994" duration="49000" />
       <workItem from="1720310690921" duration="2900000" />
       <workItem from="1720313717061" duration="230000" />
-      <workItem from="1720501487360" duration="617000" />
+      <workItem from="1720501487360" duration="3787000" />
     </task>
     <servers />
   </component>
