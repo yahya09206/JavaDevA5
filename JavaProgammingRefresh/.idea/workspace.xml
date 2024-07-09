@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticeIt/Chapter2/NumbersOutput60.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeIt/Chapter2/NumbersOutput60.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -211,9 +210,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.NumbersOutput60">
-    <configuration name="NumberTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter2.NumberTriangle" />
+  <component name="RunManager" selected="Application.NestedNumbers">
+    <configuration name="NestedNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter2.NestedNumbers" />
       <module name="JavaProgammingRefresh" />
       <extension name="coverage">
         <pattern>
@@ -279,11 +278,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NestedNumbers" />
         <item itemvalue="Application.NumbersOutput60" />
         <item itemvalue="Application.WaveNumbers40" />
         <item itemvalue="Application.SpacesAndNumbers" />
         <item itemvalue="Application.SpacedNumbers" />
-        <item itemvalue="Application.NumberTriangle" />
       </list>
     </recent_temporary>
   </component>
@@ -385,7 +384,8 @@
       <workItem from="1719775524056" duration="4709000" />
       <workItem from="1720128186994" duration="49000" />
       <workItem from="1720310690921" duration="2900000" />
-      <workItem from="1720313717061" duration="216000" />
+      <workItem from="1720313717061" duration="230000" />
+      <workItem from="1720501487360" duration="418000" />
     </task>
     <servers />
   </component>
