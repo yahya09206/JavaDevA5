@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -219,7 +217,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LargestAbsVal">
+  <component name="RunManager" selected="Application.LastDigit">
     <configuration name="LargerAbsVal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter3.LargerAbsVal" />
       <module name="JavaProgammingRefresh" />
@@ -246,8 +244,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter3.PrintNumbers" />
+    <configuration name="LastDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter3.LastDigit" />
       <module name="JavaProgammingRefresh" />
       <extension name="coverage">
         <pattern>
@@ -287,11 +285,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LastDigit" />
         <item itemvalue="Application.LargestAbsVal" />
         <item itemvalue="Application.LargerAbsVal" />
         <item itemvalue="Application.PrintPowersOfN" />
         <item itemvalue="Application.PrintPowersOfTwo" />
-        <item itemvalue="Application.PrintNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -396,7 +394,7 @@
       <workItem from="1720313717061" duration="230000" />
       <workItem from="1720501487360" duration="5609000" />
       <workItem from="1720583719892" duration="2183000" />
-      <workItem from="1721152442168" duration="482000" />
+      <workItem from="1721152442168" duration="854000" />
     </task>
     <servers />
   </component>
