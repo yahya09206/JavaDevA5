@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/PracticeIt/Chapter3/TriangleArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeIt/Chapter3/TriangleArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/PracticeIt/Chapter3/TriangleArea.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/PracticeIt/Chapter3/TriangleArea.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,6 +170,7 @@
     "Application.NumberTriangle.executor": "Run",
     "Application.NumbersOutput60.executor": "Run",
     "Application.NumbersOutputConstant.executor": "Run",
+    "Application.PadString.executor": "Run",
     "Application.Palindrome.executor": "Run",
     "Application.Pay.executor": "Run",
     "Application.PrintDesign.executor": "Run",
@@ -203,6 +205,7 @@
     "Application.StringPractice3.executor": "Run",
     "Application.StringReverse.executor": "Run",
     "Application.SumOf10Numbers.executor": "Run",
+    "Application.TriangleArea.executor": "Run",
     "Application.TwoRockets.executor": "Run",
     "Application.UniqueCharacters.executor": "Run",
     "Application.UniqueElements2.executor": "Run",
@@ -226,7 +229,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TriangleArea">
+  <component name="RunManager" selected="Application.PadString">
     <configuration name="CylinderSurfaceArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter3.CylinderSurfaceArea" />
       <module name="JavaProgammingRefresh" />
@@ -240,8 +243,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter3.Pay" />
+    <configuration name="PadString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter3.PadString" />
       <module name="JavaProgammingRefresh" />
       <extension name="coverage">
         <pattern>
@@ -253,8 +256,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scientific" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter3.Scientific" />
+    <configuration name="Pay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter3.Pay" />
       <module name="JavaProgammingRefresh" />
       <extension name="coverage">
         <pattern>
@@ -294,11 +297,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PadString" />
         <item itemvalue="Application.TriangleArea" />
         <item itemvalue="Application.SphereVolume" />
         <item itemvalue="Application.CylinderSurfaceArea" />
         <item itemvalue="Application.Pay" />
-        <item itemvalue="Application.Scientific" />
       </list>
     </recent_temporary>
   </component>
@@ -403,7 +406,7 @@
       <workItem from="1720313717061" duration="230000" />
       <workItem from="1720501487360" duration="5609000" />
       <workItem from="1720583719892" duration="2183000" />
-      <workItem from="1721152442168" duration="2975000" />
+      <workItem from="1721152442168" duration="3561000" />
     </task>
     <servers />
   </component>
