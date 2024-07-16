@@ -8,10 +8,12 @@ public class ProcessName {
     }
     public static void processName(Scanner scanner){
 
-        System.out.println("Please enter your full name: ");
-        String firstName = scanner.next();
-        String lastName = scanner.next();
-        System.out.print("Your name in reverse order is " + lastName + ", " + firstName);
+        System.out.print("Please enter your full name: ");
+        String name = scanner.nextLine();
+
+        String lastName = name.substring(name.indexOf(" "), name.length());
+        String fullName = lastName + ", " + name.substring(0, name.indexOf(" "));
+        System.out.println("Your name in reverse order is" + fullName);
 
     }
 }
