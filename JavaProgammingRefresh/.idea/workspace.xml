@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/PracticeIt/Chapter3/InputBirthday.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/PracticeIt/Chapter3/InputBirthday.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,6 +179,7 @@
     "Application.PrintPowersOfN.executor": "Run",
     "Application.PrintPowersOfTwo.executor": "Run",
     "Application.PrintReverse.executor": "Run",
+    "Application.ProcessName.executor": "Run",
     "Application.RemoveDuplicates.executor": "Run",
     "Application.RemoveIfMethod.executor": "Run",
     "Application.ReturnMethod.executor": "Run",
@@ -231,7 +233,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.InputBirthday">
+  <component name="RunManager" selected="Application.ProcessName">
     <configuration name="InputBirthday" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter3.InputBirthday" />
       <module name="JavaProgammingRefresh" />
@@ -271,8 +273,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TriangleArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter3.TriangleArea" />
+    <configuration name="ProcessName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter3.ProcessName" />
       <module name="JavaProgammingRefresh" />
       <extension name="coverage">
         <pattern>
@@ -299,11 +301,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProcessName" />
         <item itemvalue="Application.InputBirthday" />
         <item itemvalue="Application.PrintReverse" />
         <item itemvalue="Application.Vertical" />
         <item itemvalue="Application.PadString" />
-        <item itemvalue="Application.TriangleArea" />
       </list>
     </recent_temporary>
   </component>
@@ -408,7 +410,7 @@
       <workItem from="1720313717061" duration="230000" />
       <workItem from="1720501487360" duration="5609000" />
       <workItem from="1720583719892" duration="2183000" />
-      <workItem from="1721152442168" duration="4630000" />
+      <workItem from="1721152442168" duration="5396000" />
     </task>
     <servers />
   </component>
