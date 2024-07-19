@@ -18,3 +18,5 @@ public class CumulativeProduct {
         System.out.println("Product = " + product);
     }
 }
+
+
