@@ -12,5 +12,7 @@ public class CapitalLetter {
         } else {
             System.out.println("not capital");
         }
+
+
     }
 }
