@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticeIt/Chapter4/CapitalLetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeIt/Chapter4/CapitalLetter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -238,7 +237,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LastFirst">
+  <component name="RunManager" selected="Application.SecondHalfLetters">
     <configuration name="CapitalLetter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter4.CapitalLetter" />
       <module name="JavaProgammingRefresh" />
@@ -291,12 +290,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintIndexed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter3.PrintIndexed" />
+    <configuration name="SecondHalfLetters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter4.SecondHalfLetters" />
       <module name="JavaProgammingRefresh" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PracticeIt.Chapter3.*" />
+          <option name="PATTERN" value="PracticeIt.Chapter4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -306,11 +305,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SecondHalfLetters" />
         <item itemvalue="Application.LastFirst" />
         <item itemvalue="Application.CapitalLetter" />
         <item itemvalue="Application.CumulativeProduct" />
         <item itemvalue="Application.Colors" />
-        <item itemvalue="Application.PrintIndexed" />
       </list>
     </recent_temporary>
   </component>
@@ -417,7 +416,7 @@
       <workItem from="1720583719892" duration="2183000" />
       <workItem from="1721152442168" duration="6679000" />
       <workItem from="1721276163089" duration="2719000" />
-      <workItem from="1721414533856" duration="2732000" />
+      <workItem from="1721414533856" duration="3047000" />
     </task>
     <servers />
   </component>
