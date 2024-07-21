@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticeIt/Chapter4/DaysInMonth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeIt/Chapter4/DaysInMonth.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,11 +178,13 @@
     "Application.PadString.executor": "Run",
     "Application.Palindrome.executor": "Run",
     "Application.Pay.executor": "Run",
+    "Application.Pow.executor": "Run",
     "Application.PrintDesign.executor": "Run",
     "Application.PrintIndexed.executor": "Run",
     "Application.PrintNumbers.executor": "Run",
     "Application.PrintPowersOfN.executor": "Run",
     "Application.PrintPowersOfTwo.executor": "Run",
+    "Application.PrintRange.executor": "Run",
     "Application.PrintReverse.executor": "Run",
     "Application.ProcessName.executor": "Run",
     "Application.RemoveDuplicates.executor": "Run",
@@ -241,7 +242,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Pow">
+  <component name="RunManager" selected="Application.PrintRange">
     <configuration name="FractionSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter4.FractionSum" />
       <module name="JavaProgammingRefresh" />
@@ -255,8 +256,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LastFirst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter4.LastFirst" />
+    <configuration name="Pow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter4.Pow" />
       <module name="JavaProgammingRefresh" />
       <extension name="coverage">
         <pattern>
@@ -268,8 +269,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter4.Pow" />
+    <configuration name="PrintRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter4.PrintRange" />
       <module name="JavaProgammingRefresh" />
       <extension name="coverage">
         <pattern>
@@ -309,11 +310,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrintRange" />
         <item itemvalue="Application.Pow" />
         <item itemvalue="Application.Repl" />
         <item itemvalue="Application.FractionSum" />
         <item itemvalue="Application.SecondHalfLetters" />
-        <item itemvalue="Application.LastFirst" />
       </list>
     </recent_temporary>
   </component>
@@ -421,7 +422,7 @@
       <workItem from="1721152442168" duration="6679000" />
       <workItem from="1721276163089" duration="2719000" />
       <workItem from="1721414533856" duration="3406000" />
-      <workItem from="1721597105439" duration="1131000" />
+      <workItem from="1721597105439" duration="1492000" />
     </task>
     <servers />
   </component>
