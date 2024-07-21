@@ -15,5 +15,4 @@ public class DaysInMonth {
             return 31;
         }
     }
-
 }
