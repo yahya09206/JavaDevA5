@@ -200,6 +200,7 @@
     "Application.Shape2.executor": "Run",
     "Application.Shining.executor": "Run",
     "Application.SlashFigure.executor": "Run",
+    "Application.SmallestLargest.executor": "Run",
     "Application.SpacedNumbers.executor": "Run",
     "Application.SpacesAndNumbers.executor": "Run",
     "Application.SphereVolume.executor": "Run",
@@ -242,7 +243,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PrintRange">
+  <component name="RunManager" selected="Application.SmallestLargest">
     <configuration name="FractionSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter4.FractionSum" />
       <module name="JavaProgammingRefresh" />
@@ -295,8 +296,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SecondHalfLetters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter4.SecondHalfLetters" />
+    <configuration name="SmallestLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter4.SmallestLargest" />
       <module name="JavaProgammingRefresh" />
       <extension name="coverage">
         <pattern>
@@ -310,11 +311,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SmallestLargest" />
         <item itemvalue="Application.PrintRange" />
         <item itemvalue="Application.Pow" />
         <item itemvalue="Application.Repl" />
         <item itemvalue="Application.FractionSum" />
-        <item itemvalue="Application.SecondHalfLetters" />
       </list>
     </recent_temporary>
   </component>
@@ -422,7 +423,7 @@
       <workItem from="1721152442168" duration="6679000" />
       <workItem from="1721276163089" duration="2719000" />
       <workItem from="1721414533856" duration="3406000" />
-      <workItem from="1721597105439" duration="1492000" />
+      <workItem from="1721597105439" duration="2101000" />
     </task>
     <servers />
   </component>
