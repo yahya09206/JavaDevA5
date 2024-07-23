@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="" />
+    <list default="true" id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/PracticeIt/Chapter4/EvenSumMax.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/PracticeIt/Chapter4/EvenSumMax.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -185,6 +188,7 @@
     "Application.PrintPowersOfTwo.executor": "Run",
     "Application.PrintRange.executor": "Run",
     "Application.PrintReverse.executor": "Run",
+    "Application.PrintTriangleType.executor": "Run",
     "Application.ProcessName.executor": "Run",
     "Application.RemoveDuplicates.executor": "Run",
     "Application.RemoveIfMethod.executor": "Run",
@@ -242,7 +246,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.EvenSumMax">
+  <component name="RunManager" selected="Application.PrintTriangleType">
     <configuration name="EvenSumMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter4.EvenSumMax" />
       <module name="JavaProgammingRefresh" />
@@ -282,8 +286,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Repl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter4.Repl" />
+    <configuration name="PrintTriangleType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter4.PrintTriangleType" />
       <module name="JavaProgammingRefresh" />
       <extension name="coverage">
         <pattern>
@@ -310,11 +314,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrintTriangleType" />
         <item itemvalue="Application.EvenSumMax" />
         <item itemvalue="Application.SmallestLargest" />
         <item itemvalue="Application.PrintRange" />
         <item itemvalue="Application.Pow" />
-        <item itemvalue="Application.Repl" />
       </list>
     </recent_temporary>
   </component>
@@ -423,7 +427,7 @@
       <workItem from="1721276163089" duration="2719000" />
       <workItem from="1721414533856" duration="3406000" />
       <workItem from="1721597105439" duration="2908000" />
-      <workItem from="1721710802686" duration="931000" />
+      <workItem from="1721710802686" duration="1219000" />
     </task>
     <servers />
   </component>
