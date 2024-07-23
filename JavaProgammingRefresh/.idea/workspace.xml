@@ -137,6 +137,7 @@
     "Application.Egg.executor": "Run",
     "Application.Egg2.executor": "Run",
     "Application.EggStop.executor": "Run",
+    "Application.EvenSumMax.executor": "Run",
     "Application.FINRA.executor": "Run",
     "Application.FactorialNumber.executor": "Run",
     "Application.FarewellGoodBye.executor": "Run",
@@ -243,9 +244,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SmallestLargest">
-    <configuration name="FractionSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter4.FractionSum" />
+  <component name="RunManager" selected="Application.EvenSumMax">
+    <configuration name="EvenSumMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeIt.Chapter4.EvenSumMax" />
       <module name="JavaProgammingRefresh" />
       <extension name="coverage">
         <pattern>
@@ -311,11 +312,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EvenSumMax" />
         <item itemvalue="Application.SmallestLargest" />
         <item itemvalue="Application.PrintRange" />
         <item itemvalue="Application.Pow" />
         <item itemvalue="Application.Repl" />
-        <item itemvalue="Application.FractionSum" />
       </list>
     </recent_temporary>
   </component>
@@ -423,7 +424,8 @@
       <workItem from="1721152442168" duration="6679000" />
       <workItem from="1721276163089" duration="2719000" />
       <workItem from="1721414533856" duration="3406000" />
-      <workItem from="1721597105439" duration="2101000" />
+      <workItem from="1721597105439" duration="2908000" />
+      <workItem from="1721710802686" duration="695000" />
     </task>
     <servers />
   </component>
