@@ -8,17 +8,18 @@ public class ReverseElements {
         String[] array = {"Java", "Python", "C#"};
 
         for (int j = 0; j <= array.length - 1; j++){
-            String getElm = array[j];
-            String reverse = "";
-            for (int i = getElm.length() - 1; i >= 0; i--){
-                // char each = getElm.charAt(i);
-                reverse += ""+getElm.charAt(i);
-            }
+            String element = array[j];
+            String reversed = "";
 
-            array[j] = reverse;
+            for (int i = element.length() - 1; i >= 0; i--){
+                reversed += element.charAt(i);
+            }
+            array[j] = reversed;
         }
 
+
         System.out.println(Arrays.toString(array));
+
 
     }
 }
