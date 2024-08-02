@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day24_arrays/Grade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day24_arrays/Grade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/day24_arrays/FrequencyOfElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/day24_arrays/FrequencyOfElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day24_arrays/FrequencyOfElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day24_arrays/FrequencyOfElements.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,6 +154,7 @@
     "Application.FrequencyOfElements.executor": "Run",
     "Application.FrequencyOfWord.executor": "Run",
     "Application.FrequencyOfWord2.executor": "Run",
+    "Application.Grade.executor": "Run",
     "Application.HighestAndLowestScores.executor": "Run",
     "Application.InputBirthday.executor": "Run",
     "Application.Lanterns.executor": "Run",
@@ -247,7 +249,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Grade">
+  <component name="RunManager" selected="Application.FrequencyOfElements">
     <configuration name="AverageNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day23_arrays.AverageNumber" />
       <module name="JavaProgammingRefresh" />
@@ -263,6 +265,19 @@
     </configuration>
     <configuration name="ClassMates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day24_arrays.ClassMates" />
+      <module name="JavaProgammingRefresh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day24_arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FrequencyOfElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day24_arrays.FrequencyOfElements" />
       <module name="JavaProgammingRefresh" />
       <extension name="coverage">
         <pattern>
@@ -300,26 +315,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day23_arrays.MaximumNumber" />
-      <module name="JavaProgammingRefresh" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day23_arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FrequencyOfElements" />
         <item itemvalue="Application.Grade" />
         <item itemvalue="Application.ClassMates" />
         <item itemvalue="Application.AverageNumber" />
         <item itemvalue="Application.HighestAndLowestScores" />
-        <item itemvalue="Application.MaximumNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -430,7 +432,7 @@
       <workItem from="1721597105439" duration="2908000" />
       <workItem from="1721710802686" duration="2369000" />
       <workItem from="1722573108421" duration="3518000" />
-      <workItem from="1722634662359" duration="1975000" />
+      <workItem from="1722634662359" duration="2551000" />
     </task>
     <servers />
   </component>
