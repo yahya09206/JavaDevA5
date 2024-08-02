@@ -10,8 +10,11 @@ public class Months {
         System.out.println("Please select a number 1 - 12");
         int selection = scanner.nextInt();
 
-        System.out.println(months[selection - 1]);
-
-
+        // pre condition
+        if (selection >= 1 && selection <= 12){
+            System.out.println(months[selection - 1]);
+        }else {
+            System.out.println("Invalid number");
+        }
     }
 }
