@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/day23_arrays/AverageNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day23_arrays/AverageNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day24_arrays/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day24_arrays/Anagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day24_arrays/ClassMates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day24_arrays/ClassMates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day24_arrays/FrequencyOfElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day24_arrays/FrequencyOfElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day24_arrays/Grade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day24_arrays/Grade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day24_arrays/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day24_arrays/ReverseArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day24_arrays/StringMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day24_arrays/StringMethods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,142 +122,156 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Anagram.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Area.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayListMethods.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayListRefresh.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArraysIntro.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AverageNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CapitalLetter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Colors.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CumulativeProduct.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CylinderSurfaceArea.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Days.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Difference.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Distance.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DogPark.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DollarFigure.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DollarFigureTwo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Egg.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Egg2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EggStop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EvenSumMax.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FINRA.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FactorialNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FarewellGoodBye.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FightSong.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ForLoopIntro.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ForLoopPractice.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ForLoopPractice2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ForLoopPractice3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ForeachLoopPractice.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FractionSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FrequencyOfElements.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FrequencyOfWord.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FrequencyOfWord2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HighestAndLowestScores.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InputBirthday.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lanterns.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LargerAbsVal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LargestAbsVal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LastDigit.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LastFirst.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Mantra.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaximumNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Merge2Arrays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Merge3Arrays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Meta.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MinimumNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Months.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MuchBetter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyClassMates.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NestedNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NestedNumbers2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NestedNumbers3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NestedNumbersThree.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NestedNumbersTwo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumberTriangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumbersOutput60.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumbersOutputConstant.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PadString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Palindrome.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pay.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pow.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrintDesign.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrintIndexed.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrintNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrintPowersOfN.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrintPowersOfTwo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrintRange.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrintReverse.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrintTriangleType.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ProcessName.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RemoveDuplicates.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RemoveIfMethod.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Repl.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReturnMethod.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReturnMethods2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseElements.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Scientific.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SecondHalfLetters.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Shape.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Shape2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Shining.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SlashFigure.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SmallestLargest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SpacedNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SpacesAndNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SphereVolume.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Spikey.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StarFigure.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StarFigures.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StarSquare.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StarTriangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StaticExamples.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Stewie.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Stewie2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringMethods.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringPractice1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringPractice2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringPractice3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringReverse.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumOf10Numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TriangleArea.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TwoRockets.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UniqueCharacters.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UniqueElements2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Vertical.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Warmup.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WaveNumbers40.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WellFormed.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Window.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Anagram.executor": "Run",
+    "Application.Area.executor": "Run",
+    "Application.ArrayListMethods.executor": "Run",
+    "Application.ArrayListRefresh.executor": "Run",
+    "Application.ArraysIntro.executor": "Run",
+    "Application.AverageNumber.executor": "Run",
+    "Application.CapitalLetter.executor": "Run",
+    "Application.ClassMates.executor": "Run",
+    "Application.Colors.executor": "Run",
+    "Application.CumulativeProduct.executor": "Run",
+    "Application.CylinderSurfaceArea.executor": "Run",
+    "Application.Days.executor": "Run",
+    "Application.Difference.executor": "Run",
+    "Application.Distance.executor": "Run",
+    "Application.DogPark.executor": "Run",
+    "Application.DollarFigure.executor": "Run",
+    "Application.DollarFigureTwo.executor": "Run",
+    "Application.Egg.executor": "Run",
+    "Application.Egg2.executor": "Run",
+    "Application.EggStop.executor": "Run",
+    "Application.EvenSumMax.executor": "Run",
+    "Application.FINRA.executor": "Run",
+    "Application.FactorialNumber.executor": "Run",
+    "Application.FarewellGoodBye.executor": "Run",
+    "Application.FightSong.executor": "Run",
+    "Application.ForLoopIntro.executor": "Run",
+    "Application.ForLoopPractice.executor": "Run",
+    "Application.ForLoopPractice2.executor": "Run",
+    "Application.ForLoopPractice3.executor": "Run",
+    "Application.ForeachLoopPractice.executor": "Run",
+    "Application.FractionSum.executor": "Run",
+    "Application.FrequencyOfElements.executor": "Run",
+    "Application.FrequencyOfWord.executor": "Run",
+    "Application.FrequencyOfWord2.executor": "Run",
+    "Application.HighestAndLowestScores.executor": "Run",
+    "Application.InputBirthday.executor": "Run",
+    "Application.Lanterns.executor": "Run",
+    "Application.LargerAbsVal.executor": "Run",
+    "Application.LargestAbsVal.executor": "Run",
+    "Application.LastDigit.executor": "Run",
+    "Application.LastFirst.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Mantra.executor": "Run",
+    "Application.MaximumNumber.executor": "Run",
+    "Application.Merge2Arrays.executor": "Run",
+    "Application.Merge3Arrays.executor": "Run",
+    "Application.Meta.executor": "Run",
+    "Application.MinimumNumber.executor": "Run",
+    "Application.Months.executor": "Run",
+    "Application.MuchBetter.executor": "Run",
+    "Application.MyClassMates.executor": "Run",
+    "Application.NestedNumbers.executor": "Run",
+    "Application.NestedNumbers2.executor": "Run",
+    "Application.NestedNumbers3.executor": "Run",
+    "Application.NestedNumbersThree.executor": "Run",
+    "Application.NestedNumbersTwo.executor": "Run",
+    "Application.NumberTriangle.executor": "Run",
+    "Application.NumbersOutput60.executor": "Run",
+    "Application.NumbersOutputConstant.executor": "Run",
+    "Application.PadString.executor": "Run",
+    "Application.Palindrome.executor": "Run",
+    "Application.Pay.executor": "Run",
+    "Application.Pow.executor": "Run",
+    "Application.PrintDesign.executor": "Run",
+    "Application.PrintIndexed.executor": "Run",
+    "Application.PrintNumbers.executor": "Run",
+    "Application.PrintPowersOfN.executor": "Run",
+    "Application.PrintPowersOfTwo.executor": "Run",
+    "Application.PrintRange.executor": "Run",
+    "Application.PrintReverse.executor": "Run",
+    "Application.PrintTriangleType.executor": "Run",
+    "Application.ProcessName.executor": "Run",
+    "Application.RemoveDuplicates.executor": "Run",
+    "Application.RemoveIfMethod.executor": "Run",
+    "Application.Repl.executor": "Run",
+    "Application.ReturnMethod.executor": "Run",
+    "Application.ReturnMethods2.executor": "Run",
+    "Application.ReverseArray.executor": "Run",
+    "Application.ReverseElements.executor": "Run",
+    "Application.Scientific.executor": "Run",
+    "Application.SecondHalfLetters.executor": "Run",
+    "Application.Shape.executor": "Run",
+    "Application.Shape2.executor": "Run",
+    "Application.Shining.executor": "Run",
+    "Application.SlashFigure.executor": "Run",
+    "Application.SmallestLargest.executor": "Run",
+    "Application.SpacedNumbers.executor": "Run",
+    "Application.SpacesAndNumbers.executor": "Run",
+    "Application.SphereVolume.executor": "Run",
+    "Application.Spikey.executor": "Run",
+    "Application.StarFigure.executor": "Run",
+    "Application.StarFigures.executor": "Run",
+    "Application.StarSquare.executor": "Run",
+    "Application.StarTriangle.executor": "Run",
+    "Application.StaticExamples.executor": "Run",
+    "Application.Stewie.executor": "Run",
+    "Application.Stewie2.executor": "Run",
+    "Application.StringMethods.executor": "Run",
+    "Application.StringPractice1.executor": "Run",
+    "Application.StringPractice2.executor": "Run",
+    "Application.StringPractice3.executor": "Run",
+    "Application.StringReverse.executor": "Run",
+    "Application.SumOf10Numbers.executor": "Run",
+    "Application.TriangleArea.executor": "Run",
+    "Application.TwoRockets.executor": "Run",
+    "Application.UniqueCharacters.executor": "Run",
+    "Application.UniqueElements2.executor": "Run",
+    "Application.Vertical.executor": "Run",
+    "Application.Warmup.executor": "Run",
+    "Application.WaveNumbers40.executor": "Run",
+    "Application.WellFormed.executor": "Run",
+    "Application.Window.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.AverageNumber">
+}]]></component>
+  <component name="RunManager" selected="Application.ClassMates">
     <configuration name="AverageNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day23_arrays.AverageNumber" />
       <module name="JavaProgammingRefresh" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day23_arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassMates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day24_arrays.ClassMates" />
+      <module name="JavaProgammingRefresh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day24_arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -285,19 +305,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Months" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day23_arrays.Months" />
-      <module name="JavaProgammingRefresh" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day23_arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MyClassMates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day23_arrays.MyClassMates" />
       <module name="JavaProgammingRefresh" />
@@ -313,11 +320,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClassMates" />
         <item itemvalue="Application.AverageNumber" />
         <item itemvalue="Application.HighestAndLowestScores" />
         <item itemvalue="Application.MaximumNumber" />
         <item itemvalue="Application.MyClassMates" />
-        <item itemvalue="Application.Months" />
       </list>
     </recent_temporary>
   </component>
@@ -428,7 +435,7 @@
       <workItem from="1721597105439" duration="2908000" />
       <workItem from="1721710802686" duration="2369000" />
       <workItem from="1722573108421" duration="3518000" />
-      <workItem from="1722634662359" duration="524000" />
+      <workItem from="1722634662359" duration="1158000" />
     </task>
     <servers />
   </component>
