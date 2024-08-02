@@ -7,12 +7,6 @@
     <list default="true" id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/day23_arrays/ArraysIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day23_arrays/ArraysIntro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day23_arrays/AverageNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day23_arrays/AverageNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day23_arrays/Days.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day23_arrays/Days.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day23_arrays/HighestAndLowestScores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day23_arrays/HighestAndLowestScores.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day23_arrays/MaximumNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day23_arrays/MaximumNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day23_arrays/Months.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day23_arrays/Months.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day23_arrays/MyClassMates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day23_arrays/MyClassMates.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -434,7 +428,7 @@
       <workItem from="1721414533856" duration="3406000" />
       <workItem from="1721597105439" duration="2908000" />
       <workItem from="1721710802686" duration="2369000" />
-      <workItem from="1722573108421" duration="682000" />
+      <workItem from="1722573108421" duration="823000" />
     </task>
     <servers />
   </component>
