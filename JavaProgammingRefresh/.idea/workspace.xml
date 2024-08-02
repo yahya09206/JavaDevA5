@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/day25_arrays/Merge2Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/day25_arrays/Merge2Arrays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day25_arrays/Merge2Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day25_arrays/Merge2Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/day25_arrays/Merge3Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/day25_arrays/Merge3Arrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day25_arrays/Merge3Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day25_arrays/Merge3Arrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -249,7 +249,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Merge2Arrays">
+  <component name="RunManager" selected="Application.Merge3Arrays">
     <configuration name="Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day24_arrays.Anagram" />
       <module name="JavaProgammingRefresh" />
@@ -276,12 +276,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day24_arrays.ReverseArray" />
+    <configuration name="Merge3Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day25_arrays.Merge3Arrays" />
       <module name="JavaProgammingRefresh" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day24_arrays.*" />
+          <option name="PATTERN" value="day25_arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -317,11 +317,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Merge3Arrays" />
         <item itemvalue="Application.Merge2Arrays" />
         <item itemvalue="Application.ReverseElements" />
         <item itemvalue="Application.Anagram" />
         <item itemvalue="Application.StringMethods" />
-        <item itemvalue="Application.ReverseArray" />
       </list>
     </recent_temporary>
   </component>
@@ -432,7 +432,7 @@
       <workItem from="1721597105439" duration="2908000" />
       <workItem from="1721710802686" duration="2369000" />
       <workItem from="1722573108421" duration="3518000" />
-      <workItem from="1722634662359" duration="5144000" />
+      <workItem from="1722634662359" duration="5269000" />
     </task>
     <servers />
   </component>
