@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/day24_arrays/StringMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/day24_arrays/StringMethods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day24_arrays/StringMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day24_arrays/StringMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/day24_arrays/Anagram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/day24_arrays/Anagram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day24_arrays/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day24_arrays/Anagram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -249,9 +249,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.StringMethods">
-    <configuration name="ClassMates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day24_arrays.ClassMates" />
+  <component name="RunManager" selected="Application.Anagram">
+    <configuration name="Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day24_arrays.Anagram" />
       <module name="JavaProgammingRefresh" />
       <extension name="coverage">
         <pattern>
@@ -317,11 +317,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Anagram" />
         <item itemvalue="Application.StringMethods" />
         <item itemvalue="Application.ReverseArray" />
         <item itemvalue="Application.FrequencyOfElements" />
         <item itemvalue="Application.Grade" />
-        <item itemvalue="Application.ClassMates" />
       </list>
     </recent_temporary>
   </component>
@@ -432,7 +432,7 @@
       <workItem from="1721597105439" duration="2908000" />
       <workItem from="1721710802686" duration="2369000" />
       <workItem from="1722573108421" duration="3518000" />
-      <workItem from="1722634662359" duration="3604000" />
+      <workItem from="1722634662359" duration="3962000" />
     </task>
     <servers />
   </component>
