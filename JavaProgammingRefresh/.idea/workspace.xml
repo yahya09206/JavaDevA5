@@ -6,10 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/day25_arrays/ForeachLoopIntro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/day25_arrays/ForeachLoopIntro.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/day25_arrays/ForeachLoopPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/day25_arrays/ForeachLoopPractice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day25_arrays/ForeachLoopIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day25_arrays/ForeachLoopIntro.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/day25_arrays/ForeachLoopPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day25_arrays/ForeachLoopPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day25_arrays/ReverseElements2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day25_arrays/ReverseElements2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -435,7 +434,7 @@
       <workItem from="1721597105439" duration="2908000" />
       <workItem from="1721710802686" duration="2369000" />
       <workItem from="1722573108421" duration="3518000" />
-      <workItem from="1722634662359" duration="5919000" />
+      <workItem from="1722634662359" duration="6224000" />
     </task>
     <servers />
   </component>
