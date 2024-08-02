@@ -19,5 +19,7 @@ public class AverageNumber {
         System.out.println(sum);
         double average = (double) sum / numbers.length;
         System.out.println(average);
+
+        scanner.close();
     }
 }
