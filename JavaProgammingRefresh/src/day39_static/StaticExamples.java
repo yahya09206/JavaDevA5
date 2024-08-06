@@ -19,5 +19,10 @@ public class StaticExamples {
 
         System.out.println(student1.programmingLanguage);
         System.out.println(student2.programmingLanguage);
+
+
+        System.out.println("-------------------------------------");
+        System.out.println(CydeoStudent.programmingLanguage);
+        System.out.println(CydeoStudent.programmingLanguage);
     }
 }
