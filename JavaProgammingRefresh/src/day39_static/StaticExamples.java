@@ -1,42 +1,23 @@
 package day39_static;
 
-class SchoolStudent {
+class CydeoStudent{
 
-    public String name;
-    public String gender;
-    public int age;
-    public long idNumber;
+    public String name, gender;
+    public int age, ID;
 
-    public static String schoolName = "John Williams";
+    public static String schoolName = "Cydeo School";
     public static String programmingLanguage = "Java";
-
-    public void printName(){
-        System.out.println(name);
-    }
 }
-
 public class StaticExamples {
-
     public static void main(String[] args) {
 
-        SchoolStudent schoolStudent = new SchoolStudent();
-        schoolStudent.schoolName = "John Williams";
+        CydeoStudent student1 = new CydeoStudent();
+        System.out.println(student1.schoolName);
 
-        System.out.println("schoolStudent.name = " + schoolStudent.schoolName);
+        CydeoStudent student2 = new CydeoStudent();
+        System.out.println(student2.schoolName);
 
-        SchoolStudent schoolStudent2 = new SchoolStudent();
-        SchoolStudent schoolStudent3 = new SchoolStudent();
-        SchoolStudent schoolStudent4 = new SchoolStudent();
-        SchoolStudent schoolStudent5 = new SchoolStudent();
-
-        System.out.println("schoolStudent2.schoolName = " + schoolStudent2.schoolName);
-        System.out.println("schoolStudent3.programmingLanguage = " + schoolStudent3.programmingLanguage);
-
-        System.out.println("----------------------------------------------------");
-        System.out.println(SchoolStudent.schoolName);
-        System.out.println(SchoolStudent.programmingLanguage);
-
-        System.out.println(schoolStudent.age);
-
+        System.out.println(student1.programmingLanguage);
+        System.out.println(student2.programmingLanguage);
     }
 }
