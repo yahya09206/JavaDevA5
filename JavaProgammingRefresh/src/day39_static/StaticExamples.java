@@ -7,6 +7,10 @@ class CydeoStudent{
 
     public static String schoolName = "Cydeo School";
     public static String programmingLanguage = "Java";
+
+    public static void printSchoolName(){
+        System.out.println(schoolName);
+    }
 }
 public class StaticExamples {
     public static void main(String[] args) {
@@ -24,5 +28,10 @@ public class StaticExamples {
         System.out.println("-------------------------------------");
         System.out.println(CydeoStudent.programmingLanguage);
         System.out.println(CydeoStudent.programmingLanguage);
+
+        student1.age = 39;
+
+        CydeoStudent.printSchoolName();
+
     }
 }
