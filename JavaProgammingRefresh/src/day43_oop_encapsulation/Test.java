@@ -5,5 +5,12 @@ public class Test {
 
         System.out.println(AccessModifiers.publicVariable);
         System.out.println(AccessModifiers.protectedVariable);
+
+        Encapsulation encapsulation = new Encapsulation();
+        System.out.println(encapsulation.username);
+        System.out.println(encapsulation.password);
+
+        encapsulation.username = "H";
+        encapsulation.password = "123";
     }
 }
