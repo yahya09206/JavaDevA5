@@ -6,4 +6,8 @@ public class Encapsulation {
                     password = "Cydeo123";
 
 
+    public String getUsername(){
+
+        return username;
+    }
 }
