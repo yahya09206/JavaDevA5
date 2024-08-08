@@ -12,5 +12,9 @@ public class Test {
 
         encapsulation.username = "H";
         encapsulation.password = "123";
+
+        System.out.println(encapsulation.username);
+        System.out.println(encapsulation.password);
+
     }
 }
