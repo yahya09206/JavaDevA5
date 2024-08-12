@@ -9,8 +9,8 @@ public class Student extends Person{
 
     public Student(char gender, LocalDate dateOfBirth, String name, String schoolName, int studentID) {
         super(gender, dateOfBirth, name);
-        this.schoolName = schoolName;
-        this.studentID = studentID;
+        setSchoolName(schoolName);
+        setStudentID(studentID);
     }
 
     public String getSchoolName() {
@@ -27,6 +27,14 @@ public class Student extends Person{
 
     public void setStudentID(int studentID) {
         this.studentID = studentID;
+    }
+
+    public void study(){
+        System.out.println(getName() + " is studying");
+    }
+
+    public void attendClass(){
+        System.out.println(getName() + " is attending class");
     }
 
     @Override
