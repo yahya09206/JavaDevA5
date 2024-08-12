@@ -5,14 +5,14 @@ import java.time.LocalDate;
 public class Employee extends Person{
 
     private String jobTitle;
-    private long employeeID;
+    private int employeeID;
     private double salary;
 
-    public Employee(char gender, LocalDate dateOfBirth, String name, String jobTitle, long employeeID, double salary) {
+    public Employee(char gender, LocalDate dateOfBirth, String name, String jobTitle, int employeeID, double salary) {
         super(gender, dateOfBirth, name);
-        this.jobTitle = jobTitle;
-        this.employeeID = employeeID;
-        this.salary = salary;
+        setEmployeeID(employeeID);
+        setJobTitle(jobTitle);
+        setSalary(salary);
     }
 
     public String getJobTitle() {
@@ -27,7 +27,7 @@ public class Employee extends Person{
         return employeeID;
     }
 
-    public void setEmployeeID(long employeeID) {
+    public void setEmployeeID(int employeeID) {
         this.employeeID = employeeID;
     }
 
@@ -37,5 +37,22 @@ public class Employee extends Person{
 
     public void setSalary(double salary) {
         this.salary = salary;
+    }
+
+    public void work(){
+        System.out.println(getName() + " is working");
+    }
+
+    public void attendMeeting(){
+        System.out.println(getName() + " is attending meeting");
+    }
+
+    @Override
+    public String toString() {
+        return "Employee{" +
+                "jobTitle='" + jobTitle + '\'' +
+                ", employeeID=" + employeeID +
+                ", salary=" + salary +
+                '}';
     }
 }
