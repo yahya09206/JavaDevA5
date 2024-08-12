@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day48_recap/cydeoTask/Developer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day48_recap/cydeoTask/Developer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day48_recap/cydeoTask/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day48_recap/cydeoTask/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/day48_recap/cydeoTask/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day48_recap/cydeoTask/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day48_recap/cydeoTask/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day48_recap/cydeoTask/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day48_recap/cydeoTask/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day48_recap/cydeoTask/Tester.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -442,7 +437,7 @@
       <workItem from="1722913423078" duration="2247000" />
       <workItem from="1722976490836" duration="2648000" />
       <workItem from="1723152356155" duration="2673000" />
-      <workItem from="1723503164817" duration="1569000" />
+      <workItem from="1723503164817" duration="1629000" />
     </task>
     <servers />
   </component>
