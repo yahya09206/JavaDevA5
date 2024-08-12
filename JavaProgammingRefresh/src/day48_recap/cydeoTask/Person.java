@@ -9,11 +9,11 @@ public class Person {
     private final int age;
     private final LocalDate dateOfBirth;
 
-    public Person(char gender, int age, LocalDate dateOfBirth, String name) {
+    public Person(char gender, LocalDate dateOfBirth, String name) {
+        setName(name);
         this.gender = gender;
-        this.age = age;
         this.dateOfBirth = dateOfBirth;
-        this.name = name;
+        age = LocalDate.now().getYear() - this.dateOfBirth.getYear();
     }
 
     public String getName() {
