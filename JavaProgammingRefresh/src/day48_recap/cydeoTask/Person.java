@@ -47,4 +47,13 @@ public class Person {
     public void sleep(){
         System.out.println(name + " is sleeping....");
     }
+
+    @Override
+    public String toString() {
+        return
+                "name='" + name + '\'' +
+                ", gender=" + gender +
+                ", age=" + age +
+                ", dateOfBirth=" + dateOfBirth;
+    }
 }
