@@ -6,10 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day36_ArrayList/RemoveIfMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day36_ArrayList/RemoveIfMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day36_ArrayList/Warmup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day36_ArrayList/Warmup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day35_ArrayList/ArrayListMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day35_ArrayList/ArrayListMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day35_ArrayList/ArrayListRefresh.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day35_ArrayList/ArrayListRefresh.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day34_wrapper_class/WrapperClassIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day34_wrapper_class/WrapperClassIntro.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -443,7 +440,7 @@
       <workItem from="1722976490836" duration="2648000" />
       <workItem from="1723152356155" duration="2673000" />
       <workItem from="1723503164817" duration="2932000" />
-      <workItem from="1724274707037" duration="574000" />
+      <workItem from="1724274707037" duration="945000" />
     </task>
     <servers />
   </component>
