@@ -14,5 +14,10 @@ public class WrapperClassIntro {
         byte b2 = b1;
         short b3 = b1;
         int b4 = b1;
+
+        System.out.println("-------------------------------------");
+        byte c1 = 10;
+        Byte c2 = c1;
+        // Integer c4 = c1; does not convert
     }
 }
