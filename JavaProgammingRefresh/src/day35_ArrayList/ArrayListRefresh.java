@@ -11,7 +11,11 @@ public class ArrayListRefresh {
         numbers.add(5);
         numbers.add(1, 2);
         System.out.println(numbers);
+        System.out.println(numbers.get(3));
 
+        for (int i = 0; i <= numbers.size() - 1; i++){
+            System.out.println(numbers.get(i));
+        }
 
     }
 }
