@@ -17,5 +17,12 @@ public class RemoveIfMethod {
         list.removeIf(p -> p < 5);
         System.out.println(list);
 
+        System.out.println("---------------------------------------------");
+        ArrayList<String> names = new ArrayList<>();
+        names.addAll(Arrays.asList("Ahmad", "Rerve", "Feruza", "Said", "Selda"));
+
+        names.removeIf(p -> p.toLowerCase().contains("a"));
+        System.out.println(names);
+
     }
 }
