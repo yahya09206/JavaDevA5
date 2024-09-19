@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/day35_ArrayList/ArrayListRefresh.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/day35_ArrayList/ArrayListRefresh.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day35_ArrayList/ArrayListRefresh.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day35_ArrayList/ArrayListRefresh.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -444,7 +442,9 @@
       <workItem from="1723503164817" duration="2932000" />
       <workItem from="1724274707037" duration="1753000" />
       <workItem from="1724280299869" duration="11000" />
-      <workItem from="1724349765778" duration="1359000" />
+      <workItem from="1724349765778" duration="1628000" />
+      <workItem from="1724776529740" duration="415000" />
+      <workItem from="1726630648773" duration="27000" />
     </task>
     <servers />
   </component>
