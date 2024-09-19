@@ -34,7 +34,6 @@ public class Warmup {
         ArrayList<String> result = new ArrayList<>(Arrays.asList(arr1));
         result.addAll(Arrays.asList(arr2));
 
-
         System.out.println(result);
 
     }
