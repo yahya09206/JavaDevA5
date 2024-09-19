@@ -26,6 +26,16 @@ public class Warmup {
 
         System.out.println(list2);
 
+        System.out.println("----------------------------------------");
+        // combine 2 string arrays and add to new string array
+        String[] arr1 = {"A","B","C"},
+                arr2 = {"D", "E", "F"};
+
+        ArrayList<String> result = new ArrayList<>(Arrays.asList(arr1));
+        result.addAll(Arrays.asList(arr2));
+
+
+        System.out.println(result);
 
     }
 }
