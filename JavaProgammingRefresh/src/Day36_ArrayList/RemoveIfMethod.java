@@ -14,5 +14,8 @@ public class RemoveIfMethod {
 
         System.out.println(list);
 
+        list.removeIf(p -> p < 5);
+        System.out.println(list);
+
     }
 }
