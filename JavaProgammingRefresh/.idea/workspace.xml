@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day36_ArrayList/Warmup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day36_ArrayList/Warmup.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -252,7 +253,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArrayListRefresh">
+  <component name="RunManager" selected="Application.Warmup">
     <configuration name="ArrayListRefresh" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day35_ArrayList.ArrayListRefresh" />
       <module name="JavaProgammingRefresh" />
@@ -279,12 +280,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day40_statics.Test" />
+    <configuration name="Warmup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day36_ArrayList.Warmup" />
       <module name="JavaProgammingRefresh" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day40_statics.*" />
+          <option name="PATTERN" value="Day36_ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -320,11 +321,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Warmup" />
         <item itemvalue="Application.ArrayListRefresh" />
         <item itemvalue="Application.WrapperClassMethods" />
         <item itemvalue="Application.Cydeo" />
         <item itemvalue="Application.day43_oop_encapsulation.Test" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -445,6 +446,7 @@
       <workItem from="1724349765778" duration="1628000" />
       <workItem from="1724776529740" duration="415000" />
       <workItem from="1726630648773" duration="27000" />
+      <workItem from="1726729216685" duration="1063000" />
     </task>
     <servers />
   </component>
