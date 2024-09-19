@@ -1,7 +1,5 @@
 package Day36_ArrayList;
 
-import utilities.StringUtility;
-
 import java.util.ArrayList;
 import java.util.Arrays;
 
@@ -32,7 +30,7 @@ public class RemoveIfMethod {
         ArrayList<String> words = new ArrayList<>();
         words.addAll(Arrays.asList("racecar", "level", "python", "javaj", "anna", "mike"));
 
-        words.removeIf(p -> StringUtility.isPalindrome(p));
+        //words.removeIf(p -> StringUtility.isPalindrome(p));
 
         //System.out.println(words);
 

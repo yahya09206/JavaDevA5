@@ -7,6 +7,7 @@
     <list default="true" id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/Day36_ArrayList/RemoveIfMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/Day36_ArrayList/RemoveIfMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day36_ArrayList/CollectionUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day36_ArrayList/CollectionUtility.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Day36_ArrayList/RemoveIfMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day36_ArrayList/RemoveIfMethod.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -447,7 +448,7 @@
       <workItem from="1724349765778" duration="1628000" />
       <workItem from="1724776529740" duration="415000" />
       <workItem from="1726630648773" duration="27000" />
-      <workItem from="1726729216685" duration="3460000" />
+      <workItem from="1726729216685" duration="3982000" />
     </task>
     <servers />
   </component>
