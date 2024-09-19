@@ -34,6 +34,18 @@ public class RemoveIfMethod {
 
         words.removeIf(p -> StringUtility.isPalindrome(p));
 
+        //System.out.println(words);
+
+        for (String each : words) {
+            String reversed = "";
+            for (int i = each.length() - 1; i >= 0; i--){
+                reversed += each.charAt(i);
+            }
+
+            boolean isPalindrome = reversed.equalsIgnoreCase(each);
+            words.removeIf(p -> isPalindrome);
+        }
+
         System.out.println(words);
 
     }
