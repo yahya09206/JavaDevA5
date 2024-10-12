@@ -10,7 +10,8 @@ public class CollectionIntro {
         List<Integer> list3 = new Vector<>();
         List<Integer> list4 = new Stack<>();
 
-        Set<Integer> set;
+        Set<Integer> set1 = new HashSet<>();
+        Set<Integer> set2 = new LinkedHashSet<>();
 
         Queue<Integer> queue;
 
