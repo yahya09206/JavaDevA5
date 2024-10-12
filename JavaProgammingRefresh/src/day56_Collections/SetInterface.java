@@ -21,5 +21,13 @@ public class SetInterface {
         System.out.println("items2 = " + items2);
         System.out.println("items3 = " + items3);
 
+        System.out.println("------------------------------------------------");
+        List<Integer> list = new ArrayList<>();
+        list.addAll(Arrays.asList(1,2,3,4,5,1,2,3,4,5,1,2,3,4,5));
+
+        list = new ArrayList<>(new LinkedHashSet<Integer>(list));
+
+        System.out.println(list);
+
     }
 }
