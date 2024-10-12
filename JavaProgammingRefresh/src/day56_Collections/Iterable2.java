@@ -21,6 +21,9 @@ public class Iterable2 {
             }
         }
 
+        // short way
+        //names.removeIf(p -> p.equalsIgnoreCase("ahmed"));
+
         System.out.println(names);
     }
 }
