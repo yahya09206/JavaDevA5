@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/day56_Collections/SetInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/day56_Collections/SetInterface.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/day56_Collections/SetInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day56_Collections/SetInterface.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -257,7 +256,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SetInterface">
+  <component name="RunManager" selected="Application.QueuePractice">
     <configuration name="CollectionIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day55_Collections.CollectionIntro" />
       <module name="JavaProgammingRefresh" />
@@ -284,12 +283,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveIfMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day36_ArrayList.RemoveIfMethod" />
+    <configuration name="QueuePractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day56_Collections.QueuePractice" />
       <module name="JavaProgammingRefresh" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day36_ArrayList.*" />
+          <option name="PATTERN" value="day56_Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -325,11 +324,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QueuePractice" />
         <item itemvalue="Application.SetInterface" />
         <item itemvalue="Application.ListPractice" />
         <item itemvalue="Application.CollectionIntro" />
         <item itemvalue="Application.Warmup" />
-        <item itemvalue="Application.RemoveIfMethod" />
       </list>
     </recent_temporary>
   </component>
@@ -455,7 +454,7 @@
       <workItem from="1728364983767" duration="686000" />
       <workItem from="1728484511081" duration="161000" />
       <workItem from="1728717910218" duration="3575000" />
-      <workItem from="1728723339915" duration="2430000" />
+      <workItem from="1728723339915" duration="2777000" />
     </task>
     <servers />
   </component>

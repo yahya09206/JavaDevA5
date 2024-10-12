@@ -46,7 +46,5 @@ public class SetInterface {
         }
 
         System.out.println("result = " + result);
-
-
     }
 }
