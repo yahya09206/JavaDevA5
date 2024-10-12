@@ -29,5 +29,14 @@ public class SetInterface {
 
         System.out.println(list);
 
+        System.out.println("-----------------------");
+        Integer[] nums = {1,1,1,2,3,3,4,5,5,6,6,7,};
+        // Remove duplicates and return the 5th element
+        LinkedHashSet<Integer> linkedHashSet = new LinkedHashSet<>(Arrays.asList(nums));
+        System.out.println(linkedHashSet);
+        // convert to array list and select 5th element
+        System.out.println(new ArrayList<>(linkedHashSet).get(4));
+
+
     }
 }
