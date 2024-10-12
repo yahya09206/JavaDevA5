@@ -26,7 +26,7 @@ public class CollectionIntro {
 
         System.out.println(list);
 
-        // Doesn't allow dupes so best way to remove them is to use a set
+        // Doesn't allow dupes so the best way to remove them is to use a set
         Set<Integer> set = new HashSet<>();
         set.addAll(Arrays.asList(1,2,3,4,5,6,7,8,9,10));
         set.addAll(Arrays.asList(1,2,3,4,5,6,7,8,9,10));
@@ -39,6 +39,11 @@ public class CollectionIntro {
         queue1.addAll(Arrays.asList(1,2,3,4,5,6,7,8,9,10));
         queue1.addAll(Arrays.asList(1,2,3,4,5,6,7,8,9,10));
         System.out.println(queue1);
+
+        System.out.println("---------------------------------------------");
+        // Remove all elements less than 7
+        set.removeIf(p -> p < 7);
+        System.out.println(set);
 
     }
 }
