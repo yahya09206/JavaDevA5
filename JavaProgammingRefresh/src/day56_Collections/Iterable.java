@@ -16,7 +16,8 @@ public class Iterable {
                 it.remove();
             }
         }
-
         System.out.println("list = " + list);
+
+        System.out.println("---------------------");
     }
 }
