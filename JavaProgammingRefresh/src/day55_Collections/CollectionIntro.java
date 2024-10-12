@@ -12,8 +12,11 @@ public class CollectionIntro {
 
         Set<Integer> set1 = new HashSet<>();
         Set<Integer> set2 = new LinkedHashSet<>();
+        Set<Integer> set3 = new TreeSet<>();
 
-        Queue<Integer> queue;
+        Queue<Integer> queue = new PriorityQueue<>();
+        Queue<Integer> queue2 = new ArrayDeque<>();
+        Queue<Integer> queue3 = new LinkedList<>();
 
     }
 }
