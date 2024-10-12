@@ -18,5 +18,19 @@ public class CollectionIntro {
         Queue<Integer> queue2 = new ArrayDeque<>();
         Queue<Integer> queue3 = new LinkedList<>();
 
+        System.out.println("------------------------------------------");
+        List<Integer> list5 = new ArrayList<>();
+        list5.addAll(Arrays.asList(1,2,3,4,5,6,7,8,9,10));
+
+        System.out.println(list);
+
+        Set<Integer> set = new HashSet<>();
+        set.addAll(Arrays.asList(1,2,3,4,5,6,7,8,9,10));
+        System.out.println(set);
+
+        Queue<Integer> queue1 = new PriorityQueue<>();
+        queue1.addAll(Arrays.asList(1,2,3,4,5,6,7,8,9,10));
+        System.out.println(queue1);
+
     }
 }
