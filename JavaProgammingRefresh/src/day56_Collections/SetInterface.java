@@ -37,6 +37,16 @@ public class SetInterface {
         // convert to array list and select 5th element
         System.out.println(new ArrayList<>(linkedHashSet).get(4));
 
+        System.out.println("----------------------------------");
+        // "aaaabbbbccc" ==> a4b4c3
+        String s = "aaaabbbbccc";
+        String result = "";
+        for (String ch : new LinkedHashSet<>(Arrays.asList(s.split("")))) { // no duped characters
+           result += ch + Collections.frequency(Arrays.asList(s.split("")), ch); // concat char with index
+        }
+
+        System.out.println("result = " + result);
+
 
     }
 }
