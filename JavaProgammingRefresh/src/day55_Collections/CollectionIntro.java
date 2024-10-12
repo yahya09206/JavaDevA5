@@ -19,16 +19,22 @@ public class CollectionIntro {
         Queue<Integer> queue3 = new LinkedList<>();
 
         System.out.println("------------------------------------------");
+        // Allows dupes
         List<Integer> list5 = new ArrayList<>();
+        list5.addAll(Arrays.asList(1,2,3,4,5,6,7,8,9,10));
         list5.addAll(Arrays.asList(1,2,3,4,5,6,7,8,9,10));
 
         System.out.println(list);
 
+        // Doesn't allow dupes so best way to remove them is to use a set
         Set<Integer> set = new HashSet<>();
+        set.addAll(Arrays.asList(1,2,3,4,5,6,7,8,9,10));
         set.addAll(Arrays.asList(1,2,3,4,5,6,7,8,9,10));
         System.out.println(set);
 
+        // Allows dupes
         Queue<Integer> queue1 = new PriorityQueue<>();
+        queue1.addAll(Arrays.asList(1,2,3,4,5,6,7,8,9,10));
         queue1.addAll(Arrays.asList(1,2,3,4,5,6,7,8,9,10));
         System.out.println(queue1);
 
