@@ -17,5 +17,7 @@ public class QueuePractice {
         System.out.println("q1 = " + q1);
         System.out.println("q2 = " + q2);
         System.out.println("q3 = " + q3);
+
+        System.out.println(((LinkedList)q3).get(2));
     }
 }
