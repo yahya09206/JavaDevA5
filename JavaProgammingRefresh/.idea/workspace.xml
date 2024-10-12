@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Day36_ArrayList/CollectionUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day36_ArrayList/CollectionUtility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -252,7 +252,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RemoveIfMethod">
+  <component name="RunManager" selected="Application.Warmup">
     <configuration name="ArrayListRefresh" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day35_ArrayList.ArrayListRefresh" />
       <module name="JavaProgammingRefresh" />
@@ -320,8 +320,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RemoveIfMethod" />
         <item itemvalue="Application.Warmup" />
+        <item itemvalue="Application.RemoveIfMethod" />
         <item itemvalue="Application.ArrayListRefresh" />
         <item itemvalue="Application.WrapperClassMethods" />
         <item itemvalue="Application.Cydeo" />
@@ -445,7 +445,10 @@
       <workItem from="1724349765778" duration="1628000" />
       <workItem from="1724776529740" duration="415000" />
       <workItem from="1726630648773" duration="27000" />
-      <workItem from="1726729216685" duration="4168000" />
+      <workItem from="1726729216685" duration="4196000" />
+      <workItem from="1728200020467" duration="246000" />
+      <workItem from="1728364983767" duration="686000" />
+      <workItem from="1728484511081" duration="161000" />
     </task>
     <servers />
   </component>
