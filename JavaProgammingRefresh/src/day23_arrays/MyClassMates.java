@@ -12,6 +12,7 @@ public class MyClassMates {
         classMates[2] = "Joe";
 
         System.out.println(Arrays.toString(classMates));
+        System.out.println("classMates.length = " + classMates.length);
 
 
     }
