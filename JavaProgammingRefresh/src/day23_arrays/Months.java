@@ -11,6 +11,10 @@ public class Months {
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();
 
-        System.out.println(months[n-1]);
+        if (n >= 1 && n <= 12){
+            System.out.println(months[n-1]);
+        } else {
+            System.out.println("Invalid Number");
+        }
     }
 }
