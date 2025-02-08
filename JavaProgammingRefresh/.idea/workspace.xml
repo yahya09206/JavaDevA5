@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="326707b9-9f0f-4912-978b-f7a38382e09b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/day23_arrays/MaximumNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/day23_arrays/MaximumNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day23_arrays/MaximumNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day23_arrays/MaximumNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/day23_arrays/HighestAndLowestScores.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgammingRefresh/day23_arrays/HighestAndLowestScores.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day23_arrays/HighestAndLowestScores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day23_arrays/HighestAndLowestScores.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -260,9 +260,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MaximumNumber">
-    <configuration name="ArraysIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day23_arrays.ArraysIntro" />
+  <component name="RunManager" selected="Application.HighestAndLowestScores">
+    <configuration name="Days" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day23_arrays.Days" />
       <module name="JavaProgammingRefresh" />
       <extension name="coverage">
         <pattern>
@@ -274,8 +274,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Days" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day23_arrays.Days" />
+    <configuration name="HighestAndLowestScores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day23_arrays.HighestAndLowestScores" />
       <module name="JavaProgammingRefresh" />
       <extension name="coverage">
         <pattern>
@@ -328,11 +328,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HighestAndLowestScores" />
         <item itemvalue="Application.MaximumNumber" />
         <item itemvalue="Application.MyClassMates" />
         <item itemvalue="Application.Days" />
         <item itemvalue="Application.Months" />
-        <item itemvalue="Application.ArraysIntro" />
       </list>
     </recent_temporary>
   </component>
@@ -462,7 +462,7 @@
       <workItem from="1728946057879" duration="14000" />
       <workItem from="1734255685197" duration="399000" />
       <workItem from="1735011725070" duration="14000" />
-      <workItem from="1739003901728" duration="2370000" />
+      <workItem from="1739003901728" duration="3176000" />
     </task>
     <servers />
   </component>
