@@ -8,6 +8,9 @@ public class HighestAndLowestScores {
         int max = scores[0];
         String nameOfHighestScore = "";
 
+        int minScore = scores[0];
+        String nameOfLowestScore = "";
+
         for (int i = 0; i <= scores.length - 1; i++){
             String eachName = names[i];
             int eachScore = scores[i];
@@ -15,9 +18,17 @@ public class HighestAndLowestScores {
                 max = eachScore;
                 nameOfHighestScore = eachName;
             }
+
+            if (eachScore < minScore){
+                minScore = eachScore;
+                nameOfLowestScore = eachName;
+            }
         }
 
         System.out.println("max = " + max);
         System.out.println("nameOfHighestScore = " + nameOfHighestScore);
+
+        System.out.println("minScore = " + minScore);
+        System.out.println("nameOfLowestScore = " + nameOfLowestScore);
     }
 }
