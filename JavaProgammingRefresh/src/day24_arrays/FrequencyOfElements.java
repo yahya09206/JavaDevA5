@@ -15,7 +15,6 @@ public class FrequencyOfElements {
                 if (arr[i] == element){
                     count++;
                 }
-
             }
             if (count == 1){
                 System.out.println(element + " ");
