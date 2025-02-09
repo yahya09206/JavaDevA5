@@ -7,8 +7,21 @@ public class Grade {
         int[] scores = {90, 75, 80};
         char[] grades = new char[names.length];
 
-        if (scores[0] >= 90){
-            grades[0] = 'A';
+        for (int i = 0; i <= grades.length - 1; i++){
+
+            int score = scores[i];
+
+            if (score >= 90){
+                grades[i] = 'A';
+            } else if (score >= 80){
+                grades[i] = 'B';
+            } else if (score >= 70){
+                grades[i] = 'C';
+            } else if (score >= 60){
+                grades[i] = 'D';
+            } else {
+                grades[i] = 'F';
+            }
         }
     }
 }
